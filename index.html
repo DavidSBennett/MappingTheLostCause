@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapping the Lost Cause — 1939 Atlanta Historical Marker Map</title>
+  <meta name="description" content="An interactive map of the 1939 Atlanta historical marker campaign, plotted on the 1938 Housing Authority Land Use Map of Atlanta.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header id="topbar">
+    <h1>Mapping the Lost Cause</h1>
+    <p class="subtitle">The 1939 Atlanta Historical Marker Campaign &middot; 1938 Land Use Map of Atlanta</p>
+    <div class="topbar-buttons">
+      <button id="btn-index" type="button" aria-expanded="false" aria-controls="index-panel">Marker Index</button>
+      <button id="btn-about" type="button">About</button>
+    </div>
+  </header>
+
+  <div id="map" role="application" aria-label="Interactive 1938 map of Atlanta with historical marker locations"></div>
+
+  <!-- List of all markers -->
+  <nav id="index-panel" class="panel" hidden aria-label="Marker index">
+    <div class="panel-head">
+      <h2>Marker Index</h2>
+      <button class="panel-close" type="button" data-close="index-panel" aria-label="Close index">&times;</button>
+    </div>
+    <input id="index-filter" type="search" placeholder="Filter markers&hellip;" aria-label="Filter markers">
+    <ul id="index-list"></ul>
+  </nav>
+
+  <!-- Marker detail reader -->
+  <aside id="detail-panel" class="panel" hidden aria-label="Marker details">
+    <div class="panel-head">
+      <h2 id="detail-title"></h2>
+      <button class="panel-close" type="button" data-close="detail-panel" aria-label="Close details">&times;</button>
+    </div>
+    <div id="detail-body" class="panel-body"></div>
+  </aside>
+
+  <!-- About -->
+  <aside id="about-panel" class="panel" hidden aria-label="About this project">
+    <div class="panel-head">
+      <h2>About this project</h2>
+      <button class="panel-close" type="button" data-close="about-panel" aria-label="Close about">&times;</button>
+    </div>
+    <div class="panel-body">
+      <p>In 1939, timed to the Atlanta premiere of <em>Gone with the Wind</em>, a campaign
+      placed dozens of historical markers across Atlanta commemorating the 1864 campaign
+      and the city's early history. This project plots those markers on the 1938 Housing
+      Authority <em>Land Use Map of Atlanta</em>, whose legend — including its explicitly
+      racialized housing categories — is itself a primary source for how the city saw
+      itself at the moment the Lost Cause was being fixed into the landscape.</p>
+      <p>Click a numbered pin to read the archival marker text, drawn from Wilbur Kurtz's
+      descriptions and contemporary newspaper accounts.</p>
+      <p>A project of <a href="https://davidsbennett.com" target="_blank" rel="noopener">David S. Bennett</a> &middot;
+      <a href="https://thehistorians.org" target="_blank" rel="noopener">thehistorians.org</a></p>
+    </div>
+  </aside>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="data/markers.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+name: Deploy to GreenGeeks (SSH)
+
+# Same pattern as the other projects: push to main, the static deploy set is
+# assembled into publish/, and rsync ships it to the subdomain's docroot over
+# SSH. The site is fully static — no build step.
+#
+# Only the files the page actually loads are deployed (index.html, css/, js/,
+# data/markers.js, assets/). The source exports (WordPress CSV, Image Map Pro
+# JSON) and the tools/ generator stay in the repo only.
+#
+# One-time setup for this repo:
+#   1. cPanel -> Domains -> create the subdomain, docroot
+#      public_html/lostcause.thehistorians.org
+#   2. Repo Settings -> Secrets and variables -> Actions: add the same four
+#      secrets the other projects use: SSH_PRIVATE_KEY, SSH_HOST,
+#      SSH_USERNAME, SSH_PORT
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # manual deploys from the Actions tab
+
+env:
+  # The subdomain this install serves. Change in ONE place.
+  SUBDOMAIN: lostcause.thehistorians.org
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Assemble publish/ (exactly the deploy set)
+        run: |
+          mkdir -p publish/data
+          cp index.html publish/
+          cp -r css publish/
+          cp -r js publish/
+          cp -r assets publish/
+          cp data/markers.js publish/data/
+          ls -laR publish/
+
+      - name: Deploy via SSH (rsync)
+        uses: easingthemes/ssh-deploy@v5.1.0
+        with:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST:     ${{ secrets.SSH_HOST }}
+          REMOTE_USER:     ${{ secrets.SSH_USERNAME }}
+          REMOTE_PORT:     ${{ secrets.SSH_PORT }}
+          SOURCE: "publish/"
+          TARGET: "public_html/${{ env.SUBDOMAIN }}/"
+          # NO --delete: files that exist only on the server are never removed.
+          ARGS: "-rltgoDzvO --no-perms"
+
+      - name: Smoke check the live site
+        run: |
+          curl -sf --max-time 30 "https://${{ env.SUBDOMAIN }}/" -o /dev/null \
+            && echo "Live site responded OK." \
+            || echo "::warning::Smoke check failed — the site may not be live yet (DNS/subdomain setup pending)."
