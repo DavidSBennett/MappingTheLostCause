@@ -1,7 +1,8 @@
 # Mapping the Lost Cause
 
 An interactive map of the **1939 Atlanta historical marker campaign**, plotted on the
-1938 Housing Authority *Land Use Map of Atlanta*. This is a standalone, static
+1945 Atlanta Housing Authority *Land Use Map* (Kenan Research Center, Atlanta History
+Center, VIS 290.001.015.002). This is a standalone, static
 JavaScript rebuild of the WordPress Image Map Pro system previously at
 [davidsbennett.com/mapping-the-lost-cause-1939-atlanta](https://davidsbennett.com/mapping-the-lost-cause-1939-atlanta/).
 
@@ -10,7 +11,7 @@ JavaScript rebuild of the WordPress Image Map Pro system previously at
 ## How it works
 
 - [index.html](index.html) + [js/app.js](js/app.js) — a [Leaflet](https://leafletjs.com/)
-  map in `CRS.Simple` mode. The scanned 1938 map (`assets/atlanta-1938-map.jpg`,
+  map in `CRS.Simple` mode. The scanned 1945 map (`assets/atlanta-1945-land-use-map.jpg`,
   2560×2008) is an `L.imageOverlay`; each historical marker is a numbered pin with a
   hover tooltip and a click-to-open reading panel containing the full archival text.
 - [data/markers.js](data/markers.js) — **generated file**: one record per marker with

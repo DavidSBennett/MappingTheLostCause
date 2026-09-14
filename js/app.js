@@ -25,7 +25,7 @@
   map.setMaxBounds(bounds.pad(0.25));
 
   L.control.attribution({ prefix: false })
-    .addAttribution('1938 Housing Authority Land Use Map of Atlanta')
+    .addAttribution('Atlanta Housing Authority, Land Use Map, 1945 — Kenan Research Center, Atlanta History Center')
     .addTo(map);
 
   // percent coords -> CRS.Simple latlng (y measured from the top of the image)
