@@ -72,7 +72,7 @@ window.LOSTCAUSE = {
     "title": "(24) Residence of Maxwell R. Berry.",
     "x": 42.17,
     "y": 51.295,
-    "html": "<p><strong>Wilbur Kurtz' archival description</strong>:</p>\n\n<p>(24) Site of the residence of Maxwell R. Berry; occupied as Headquarters by Maj. Gen. William W. Loring, CSA., 1864.</p>\n\n<p>(Northwest corner, Walton and Fairlie Streets.  The house faced on Fairlie Street.).</p>\n\n<p><strong>Newspaper description:</strong></p>"
+    "html": "<p><strong>Wilbur Kurtz' archival description</strong>:</p>\n\n<p>(24) Site of the residence of Maxwell R. Berry; occupied as Headquarters by Maj. Gen. William W. Loring, CSA., 1864.</p>\n\n<p>(Northwest corner, Walton and Fairlie Streets. The house faced on Fairlie Street.).</p>\n\n<p><strong>Newspaper description:</strong></p>"
   },
   {
     "spotId": "spot-5584",
@@ -81,7 +81,7 @@ window.LOSTCAUSE = {
     "title": "(25) Wesley Chapel, 1848-1870; First Methodist Church, 1870-1904.",
     "x": 44.618,
     "y": 51.546,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description</strong>:</p>\n\n<p>(25) Site of Wesley Chapel, 1848-1870; First Methodist Church, 1870-1904.&nbsp; North half of lot occupied by Confederate Commissary Dept., 1863-1864, and known as the “Storrs School” after its removal to the N.W. corner of Houston St. and Piedmont Ave.</p>\n\n<p>(On Candler Bldg., - preferably near main entrance – Peachtree St. side).</p>\n\n<p><strong>Newspaper Description</strong>:</p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description</strong>:</p>\n\n<p>(25) Site of Wesley Chapel, 1848-1870; First Methodist Church, 1870-1904. North half of lot occupied by Confederate Commissary Dept., 1863-1864, and known as the “Storrs School” after its removal to the N.W. corner of Houston St. and Piedmont Ave.</p>\n\n<p>(On Candler Bldg., - preferably near main entrance – Peachtree St. side).</p>\n\n<p><strong>Newspaper Description</strong>:</p>"
   },
   {
     "spotId": "spot-2174",
@@ -90,7 +90,7 @@ window.LOSTCAUSE = {
     "title": "(26) First State Capitol in Atlanta, 1868-1889.",
     "x": 42.059,
     "y": 52.518,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(26) Site of the first State Capitol in Atlanta – 1868-1889.&nbsp; Erected by Hannibal I. Kimball as an Opera House.&nbsp; Demolished in 1900.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of the first State Capitol in Atlanta – 1868-1889.  Western Union Building, southwest corner Marietta and Forsyth Streets.</p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(26) Site of the first State Capitol in Atlanta – 1868-1889. Erected by Hannibal I. Kimball as an Opera House. Demolished in 1900.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of the first State Capitol in Atlanta – 1868-1889. Western Union Building, southwest corner Marietta and Forsyth Streets.</p>"
   },
   {
     "spotId": "spot-7579",
@@ -108,7 +108,7 @@ window.LOSTCAUSE = {
     "title": "(28) Confederate Arsenal and Military Storehouse, 1863-1864.",
     "x": 43.707,
     "y": 54.024,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(28) Site of Confederate Arsenal and Military Storehouse, 1863-1864.</p>\n\n<p>(Gee Muse Clothing Co., N.W. Peachtree and Walton Sts.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of Confederate arsenal and military storehouse, 1863-1864.  George Muse Company store, Confederate barracks and prison, 1862-1864.  Peachtree Street, entrance Peachtree Arcade.</p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(28) Site of Confederate Arsenal and Military Storehouse, 1863-1864.</p>\n\n<p>(Gee Muse Clothing Co., N.W. Peachtree and Walton Sts.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of Confederate arsenal and military storehouse, 1863-1864. George Muse Company store, Confederate barracks and prison, 1862-1864. Peachtree Street, entrance Peachtree Arcade.</p>"
   },
   {
     "spotId": "spot-3639",
@@ -117,7 +117,7 @@ window.LOSTCAUSE = {
     "title": "(30) Concert Hall, used as Confederate Barracks and Prison, 1862-1864.",
     "x": 42.637,
     "y": 55.815,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(30) Site of Concert Hall, used as Confederate Barracks and Prison, 1862-1864.&nbsp; From this building, James J. Andrews, of the Andrews Raid, was taken to the place of execution.&nbsp; Here stood the National Hotel.</p>\n\n<p>(Peachtree St., front Peachtree Arcade).</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(30) Site of Concert Hall, used as Confederate Barracks and Prison, 1862-1864. From this building, James J. Andrews, of the Andrews Raid, was taken to the place of execution. Here stood the National Hotel.</p>\n\n<p>(Peachtree St., front Peachtree Arcade).</p>\n\n<p><strong>Newspaper Description:</strong></p>"
   },
   {
     "spotId": "spot-9507",
@@ -135,7 +135,7 @@ window.LOSTCAUSE = {
     "title": "(33) Tin and Sheet Metal Shop of Moses W. Formwalt, 1845-1850.",
     "x": 44.089,
     "y": 55.846,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(33) Here stood the Tin and Sheet Metal Shop of Moses W. Formwalt – 1845-1850.  This block was then known as “Murrel’s Row”.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(33) Here stood the Tin and Sheet Metal Shop of Moses W. Formwalt – 1845-1850. This block was then known as “Murrel’s Row”.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
   },
   {
     "spotId": "spot-1115",
@@ -144,7 +144,7 @@ window.LOSTCAUSE = {
     "title": "(34) Engine House – Atlanta Volunteer Fire Co. No. 1",
     "x": 41.137,
     "y": 55.391,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(34) Site of Engine House – Atlanta Volunteer Fire Co. No. 1, (organized March 24, 1851).  Building erected 1854.</p>\n\n<p>(Southwest corner railroad and Broad St.)</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(34) Site of Engine House – Atlanta Volunteer Fire Co. No. 1, (organized March 24, 1851). Building erected 1854.</p>\n\n<p>(Southwest corner railroad and Broad St.)</p>\n\n<p><strong>Newspaper Description:</strong></p>"
   },
   {
     "spotId": "spot-6350",
@@ -153,7 +153,7 @@ window.LOSTCAUSE = {
     "title": "(35) The Atlanta Hotel, Atlanta’s first regular hostelry.",
     "x": 43.154,
     "y": 55.203,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(35) Site of the Atlanta Hotel, Atlanta’s first regular hostelry, operated by Dr. Joseph Thompson.  Erected 1846; destroyed by the Federal army in 1864.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(35) Site of the Atlanta Hotel, Atlanta’s first regular hostelry, operated by Dr. Joseph Thompson. Erected 1846; destroyed by the Federal army in 1864.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
   },
   {
     "spotId": "spot-5289",
@@ -162,7 +162,7 @@ window.LOSTCAUSE = {
     "title": "(36) Site of Old State Square",
     "x": 43.652,
     "y": 56.705,
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(36) The area bounded by Decatur, Pryor, Alabama Sts., and Central Avenue, was the old State Square, consisting of five acres, deeded to the State of Georgia by Samuel Mitchell, July 11, 1842.&nbsp; Here the terminus of the State Railroad was re-located, a temporary depot and a two-story house (Chief Engineer’s office) were erected.&nbsp; The name “Terminus” was dropped and Marthasville substituted, its charter granted Dec. 23, 1843.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of terminus of Western &amp; Atlantic R. R. and old Union passenger station.</p>"
+    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(36) The area bounded by Decatur, Pryor, Alabama Sts., and Central Avenue, was the old State Square, consisting of five acres, deeded to the State of Georgia by Samuel Mitchell, July 11, 1842. Here the terminus of the State Railroad was re-located, a temporary depot and a two-story house (Chief Engineer’s office) were erected. The name “Terminus” was dropped and Marthasville substituted, its charter granted Dec. 23, 1843.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of terminus of Western &amp; Atlantic R. R. and old Union passenger station.</p>"
   },
   {
     "spotId": "spot-5829",
@@ -171,7 +171,7 @@ window.LOSTCAUSE = {
     "title": "(39) Kyle's Corner",
     "x": 42.906,
     "y": 54.058,
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz Archival Description:</span></p>\n\n<p>(39)&nbsp;&nbsp;&nbsp;&nbsp; This site, known in early Atlanta history as Kyle’s Corner, was the location of a store owned and operated by Thomas Kyle. At the first Atlanta city election, held here Jan. 29, 1848, Moses H. Formwalt was elected Mayor and as Council Members: James A Collins, Benj. F. Bomar, Robt. W. Bullard, Anderson W. Walton, L. C. Simpson and Jonas S. Smith.</p>\n\n<p>(On the William-Oliver Bldg. at Five Points)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
+    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz Archival Description:</span></p>\n\n<p>(39) This site, known in early Atlanta history as Kyle’s Corner, was the location of a store owned and operated by Thomas Kyle. At the first Atlanta city election, held here Jan. 29, 1848, Moses H. Formwalt was elected Mayor and as Council Members: James A Collins, Benj. F. Bomar, Robt. W. Bullard, Anderson W. Walton, L. C. Simpson and Jonas S. Smith.</p>\n\n<p>(On the William-Oliver Bldg. at Five Points)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
   },
   {
     "spotId": "spot-8311",
@@ -180,7 +180,7 @@ window.LOSTCAUSE = {
     "title": "(41) Fulton County Court House",
     "x": 42.075,
     "y": 58.986,
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(41) Original structure of Fulton County Court House, erected on this site in 1881. Present edifice erected 1912 – 1914.</p>\n\n<p>            (Fulton County Court House)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
+    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(41) Original structure of Fulton County Court House, erected on this site in 1881. Present edifice erected 1912 – 1914.</p>\n\n<p>(Fulton County Court House)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
   },
   {
     "spotId": "spot-1764",
@@ -189,7 +189,7 @@ window.LOSTCAUSE = {
     "title": "(52) Peachtrees fork at Baker St.",
     "x": 44.551,
     "y": 44.227,
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p> (52) Here, May 1, 1886, Jefferson Davis, President of the Southern Confederacy, spoke at the ceremonies incident to the unveiling of the marble statue of Senator Benj. H. Hill The statue was later removed to the State Capitol. </p>\n\n<p>(Where the Peachtrees fork at Baker St.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(52) Here, May 1, 1886, Jefferson Davis, President of the Southern Confederacy, spoke at the ceremonies incident to the unveiling of the marble statue of Senator Benj. H. Hill The statue was later removed to the State Capitol. </p>\n\n<p>(Where the Peachtrees fork at Baker St.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
   },
   {
     "spotId": "spot-7295",
@@ -198,7 +198,7 @@ window.LOSTCAUSE = {
     "title": "(57) Southeast Corner of Oakland Cemetery",
     "x": 58.984,
     "y": 63.291,
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(57) This six acre tract in the southeast corner of Oakland Cemetery was purchased by the City of Atlanta June 6, 1850, and established as a cemetery. Some years later, additions were made, the present area comprising some 85 acres. </p>\n\n<p>(On the Oakland Cemetery wall, northeast corner Fair Street and Oakland Ave.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(57) This six acre tract in the southeast corner of Oakland Cemetery was purchased by the City of Atlanta June 6, 1850, and established as a cemetery. Some years later, additions were made, the present area comprising some 85 acres. </p>\n\n<p>(On the Oakland Cemetery wall, northeast corner Fair Street and Oakland Ave.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
   },
   {
     "spotId": "spot-1240",
@@ -216,7 +216,7 @@ window.LOSTCAUSE = {
     "title": "(77) Site of one of the Forts in the line of city defense works during the siege of Atlanta",
     "x": 77.243,
     "y": 64.158,
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>July 22d – Aug 25<sup>th</sup>, 1864. Here was posted Capt. Overton W. Barret’s Missouri battery.&nbsp;</p>\n\n<p>(This is the high hill south of Bankhead Highway viaduct over Railroad)&nbsp;</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>282 Moreland Ave., S. E Koch Residence. Leggett's Hall. A crucial point in the Battle of Atlanta. See bronze tablet on gate post.</p>"
+    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>July 22d – Aug 25<sup>th</sup>, 1864. Here was posted Capt. Overton W. Barret’s Missouri battery. </p>\n\n<p>(This is the high hill south of Bankhead Highway viaduct over Railroad) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>282 Moreland Ave., S. E Koch Residence. Leggett's Hall. A crucial point in the Battle of Atlanta. See bronze tablet on gate post.</p>"
   },
   {
     "spotId": "spot-7689",
@@ -225,7 +225,7 @@ window.LOSTCAUSE = {
     "title": "(84) First Fulton County Jail",
     "x": 47.048,
     "y": 63.937,
-    "html": "<p>Site of the first Fulton County Jail - erected 1855; destroyed by the Federal army, Nov. 1865. It was a&nbsp; two story brick structure 45 by 50 ft., surrounded by a high board fence.</p>\n\n<p>Here were imprisoned 21 Andrews Raiders in 1862. On June 18 seven of them were executed at southeast corner of Fair st. and S. Park Ave. On Oct. 16th, eight escaped; the remaining six were sent to Richmond and exchanged.</p>\n\n<p>A second jail occupied this site after the war, until 1897.</p>\n\n<p>(Northeast corner - Fair St. and Fraser St. North line of jail lot on prolongation of Cravens Alley. East line of lot, Kingsley St,</p>"
+    "html": "<p>Site of the first Fulton County Jail - erected 1855; destroyed by the Federal army, Nov. 1865. It was a two story brick structure 45 by 50 ft., surrounded by a high board fence.</p>\n\n<p>Here were imprisoned 21 Andrews Raiders in 1862. On June 18 seven of them were executed at southeast corner of Fair st. and S. Park Ave. On Oct. 16th, eight escaped; the remaining six were sent to Richmond and exchanged.</p>\n\n<p>A second jail occupied this site after the war, until 1897.</p>\n\n<p>(Northeast corner - Fair St. and Fraser St. North line of jail lot on prolongation of Cravens Alley. East line of lot, Kingsley St,</p>"
   },
   {
     "spotId": "spot-3136",
@@ -285,16 +285,16 @@ window.LOSTCAUSE = {
     "spotId": "spot-72",
     "num": 100,
     "label": "100",
-    "title": "(100) Site of the Battle of Atlanta￼",
+    "title": "(100) Site of the Battle of Atlanta",
     "x": 93.418,
     "y": 62.551,
-    "html": "<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(100)   Late afternoon, July 20, 1864, Brig. Gen. Gresham, commanding 4<sup>th</sup> div. Federal 17<sup>th</sup> Corps, was severely wounded while pressing the attack on Wheeler’s Cavalry, posted on Leggett’s Hill. From this point, July 22d, Gen. ,McPherson watched the fighting in the valley of sugar creek where Walker’s div. of Hardee’s Corps, C.S.A, was attacking the 16<sup>th</sup> corps. A few minutes later, McPherson rode forward and was killed one block southward where his monument stands.</p>\n\n<p>(Hill-top where Murphy Junior High School now stands)</p>\n\n<p>Newspaper description:</p>\n\n<p></p>"
+    "html": "<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(100) Late afternoon, July 20, 1864, Brig. Gen. Gresham, commanding 4<sup>th</sup> div. Federal 17<sup>th</sup> Corps, was severely wounded while pressing the attack on Wheeler’s Cavalry, posted on Leggett’s Hill. From this point, July 22d, Gen. ,McPherson watched the fighting in the valley of sugar creek where Walker’s div. of Hardee’s Corps, C.S.A, was attacking the 16<sup>th</sup> corps. A few minutes later, McPherson rode forward and was killed one block southward where his monument stands.</p>\n\n<p>(Hill-top where Murphy Junior High School now stands)</p>\n\n<p>Newspaper description:</p>\n\n<p></p>"
   },
   {
     "spotId": "spot-9354",
     "num": 101,
     "label": "101",
-    "title": "(101) Battlefield of Atlanta, July 22, 1864￼",
+    "title": "(101) Battlefield of Atlanta, July 22, 1864",
     "x": 79.557,
     "y": 62.575,
     "html": "<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(101) Battlefield of Atlanta, July 22, 1864</p>\n\n<p>At this point the Battle of Atlanta began at noon. Walker’s and Bate’s divisions of Hardee’s Corps (C.S.A), moving from southward and eastward to attack the rear of McPherson’s troops on Leggett’s Hill and along the Moreland Ave., unexpectedly struck sweeny’s div. of the Federal 16<sup>th</sup> Corps, moving southward on Clay St. from north of the Georgia R.R.</p>\n\n<p>(At the intersection of Clay St. and Memorial Drive)</p>"
@@ -306,7 +306,7 @@ window.LOSTCAUSE = {
     "title": "(103) Fortified line of Atlanta Siege",
     "x": 63.743,
     "y": 74.159,
-    "html": "<p>(103)   These entrenched works are a part of the fortified line that encircled Atlanta during the siege of Atlanta,  July 22d – Aug. 25th, 1864. From this line, the troops of Cheatham’s corps advanced eastward across entrenchment Creek valley to attack the Federal 15<sup>th</sup> and 17<sup>th</sup> corps along Moreland Ave., July 22d.</p>\n\n<p>(Triangle bounded by Kalb – Bryan and Waldo Sts.- 100 feet east of S. Boulevard, and just south of Home for Incurables)</p>"
+    "html": "<p>(103) These entrenched works are a part of the fortified line that encircled Atlanta during the siege of Atlanta, July 22d – Aug. 25th, 1864. From this line, the troops of Cheatham’s corps advanced eastward across entrenchment Creek valley to attack the Federal 15<sup>th</sup> and 17<sup>th</sup> corps along Moreland Ave., July 22d.</p>\n\n<p>(Triangle bounded by Kalb – Bryan and Waldo Sts.- 100 feet east of S. Boulevard, and just south of Home for Incurables)</p>"
   },
   {
     "spotId": "spot-3720",
@@ -315,16 +315,16 @@ window.LOSTCAUSE = {
     "title": "(104) Site of Maj. Gen. James B. McPherson death",
     "x": 84.331,
     "y": 66.987,
-    "html": "<p>(104)    This monument marks the scene of the death of Maj. Gen. James B. McPherson, commanding the federal army of Tennessee, July 22, 1864.</p>\n\n<p>Gen. McPherson was en route from northward to the left of his line at Glenwood and flat shoals Rd. At this point the rode squarely into a line of skirmishers of Cleburne’s div. of Hardee’s Corps and was shot by them when he refused to surrender.</p>\n\n<p>(Within the iron railing of the McPherson monument- McPherson Ave., and Monument Ave., in east Atlanta. No inscription is on the monument other than the one word – “McPherson”.)</p>"
+    "html": "<p>(104) This monument marks the scene of the death of Maj. Gen. James B. McPherson, commanding the federal army of Tennessee, July 22, 1864.</p>\n\n<p>Gen. McPherson was en route from northward to the left of his line at Glenwood and flat shoals Rd. At this point the rode squarely into a line of skirmishers of Cleburne’s div. of Hardee’s Corps and was shot by them when he refused to surrender.</p>\n\n<p>(Within the iron railing of the McPherson monument- McPherson Ave., and Monument Ave., in east Atlanta. No inscription is on the monument other than the one word – “McPherson”.)</p>"
   },
   {
     "spotId": "spot-9205",
     "num": 105,
     "label": "105",
-    "title": "(105)   Fort Walker",
+    "title": "(105) Fort Walker",
     "x": 61.288,
     "y": 85.471,
-    "html": "<p>(105)   Fort Walker – On this, the summit of Dabney’s Hill, was constructed the southeastern salient angle of this entrenched line of the fortifications surrounding Atlanta, occupied by Confederate forces during the siege of the city, July 22 – Aug. 25, 1864.</p>\n\n<p>It was named Fort Walker in honor of Maj. Gen. N. H. T. Walker who killed in battle two miles east of this point, July 22d, 1864.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Southeastern corner of Grant Park)</p>"
+    "html": "<p>(105) Fort Walker – On this, the summit of Dabney’s Hill, was constructed the southeastern salient angle of this entrenched line of the fortifications surrounding Atlanta, occupied by Confederate forces during the siege of the city, July 22 – Aug. 25, 1864.</p>\n\n<p>It was named Fort Walker in honor of Maj. Gen. N. H. T. Walker who killed in battle two miles east of this point, July 22d, 1864.</p>\n\n<p>(Southeastern corner of Grant Park)</p>"
   },
   {
     "spotId": "spot-6082",
@@ -333,43 +333,43 @@ window.LOSTCAUSE = {
     "title": "(106) Fortification occupied by Confederate forces during the siege of Atlanta, July 22 - Aug. 25, 1864",
     "x": 56.803,
     "y": 81.084,
-    "html": "<p>(106)   This fragment of breastworks is a remnant of the city fortifications occupied by Confederate forces during the siege of Atlanta, July 22 – Aug. 25, 1864. The line completely encircled the city, aggregating twelve miles of forts and rifle pits, and was laid out by Lemuel P. Grant, engineer, who in 1883 donated the original 100 acres of this area for a city park.</p>\n\n<p>            (North of the driveway, nearly midway between Augusta Ave. entrance of Grant Park and the refreshment building in front of Cyclorama)</p>"
+    "html": "<p>(106) This fragment of breastworks is a remnant of the city fortifications occupied by Confederate forces during the siege of Atlanta, July 22 – Aug. 25, 1864. The line completely encircled the city, aggregating twelve miles of forts and rifle pits, and was laid out by Lemuel P. Grant, engineer, who in 1883 donated the original 100 acres of this area for a city park.</p>\n\n<p>(North of the driveway, nearly midway between Augusta Ave. entrance of Grant Park and the refreshment building in front of Cyclorama)</p>"
   },
   {
     "spotId": "spot-6307",
     "num": 107,
     "label": "107",
-    "title": "(107)   Site of the James E. Williams house in 1864",
+    "title": "(107) Site of the James E. Williams house in 1864",
     "x": 60.786,
     "y": 63.561,
-    "html": "<p>(107)   Site of the James E. Williams house in 1864. Gen. John B. Hood watched the battle of Atlanta from the second floor of this house, on July 22d, 1864.</p>\n\n<p>            ( In Oakland Cemetery – North of the cemetery office – halfway between building and north wall of the cemetery)</p>"
+    "html": "<p>(107) Site of the James E. Williams house in 1864. Gen. John B. Hood watched the battle of Atlanta from the second floor of this house, on July 22d, 1864.</p>\n\n<p>( In Oakland Cemetery – North of the cemetery office – halfway between building and north wall of the cemetery)</p>"
   },
   {
     "spotId": "spot-9375",
     "num": 108,
     "label": "108",
-    "title": "(108)   Site of a Confederate fort in a line of works erected July 28th, 1864",
+    "title": "(108) Site of a Confederate fort in a line of works erected July 28th, 1864",
     "x": 17.348,
     "y": 63.734,
-    "html": "<p>(108)&nbsp;&nbsp; Site of a Confederate fort in a line of works erected July 28<sup>th</sup>, 1864, to protect the two railroads entering the City from the Southwest. This line extended below East Point.</p>\n\n<p>            (Elevated ground bounded by Green’s Ferry Ave., Lawton St., Sells Ave., and Abbott St.)</p>"
+    "html": "<p>(108) Site of a Confederate fort in a line of works erected July 28<sup>th</sup>, 1864, to protect the two railroads entering the City from the Southwest. This line extended below East Point.</p>\n\n<p>(Elevated ground bounded by Green’s Ferry Ave., Lawton St., Sells Ave., and Abbott St.)</p>"
   },
   {
     "spotId": "spot-9950",
     "num": 109,
     "label": "109",
-    "title": "(109)  The Nedom L. Angier house",
+    "title": "(109) The Nedom L. Angier house",
     "x": 31.276,
     "y": 59.519,
-    "html": "<p> (109)  The Nedom L. Angier house – built during the 1850 decade, occupied as headquarters by Maj. Gen. John M. Schofield, commander of the Army of Ohio, during the occupation of Atlanta by Federal forces in Sept. 1864.</p>\n\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Old Angier house – southeast cor. Washington St., and Capitol Square – due east of City Hall)</p>"
+    "html": "<p>(109) The Nedom L. Angier house – built during the 1850 decade, occupied as headquarters by Maj. Gen. John M. Schofield, commander of the Army of Ohio, during the occupation of Atlanta by Federal forces in Sept. 1864.</p>\n\n<p>(Old Angier house – southeast cor. Washington St., and Capitol Square – due east of City Hall)</p>"
   },
   {
     "spotId": "spot-3151",
     "num": 110,
     "label": "110",
-    "title": "(110)   Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.",
+    "title": "(110) Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.",
     "x": 26.598,
     "y": 39.643,
-    "html": "<p>(110)   Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.</p>\n\n<p>            (High hill bounded by Kennedy, Sunset, Jett, and Elm Sts., in Land Lot 111 of the 14<sup>th</sup> 1<sup>st</sup>., Fulton County. This is possibly the best-preserved fort in the city – even a better one than fort Walker in Grant Park. The ground has never been disturbed and is well worth a trip out  there to see it)</p>"
+    "html": "<p>(110) Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.</p>\n\n<p>(High hill bounded by Kennedy, Sunset, Jett, and Elm Sts., in Land Lot 111 of the 14<sup>th</sup> 1<sup>st</sup>., Fulton County. This is possibly the best-preserved fort in the city – even a better one than fort Walker in Grant Park. The ground has never been disturbed and is well worth a trip out there to see it)</p>"
   },
   {
     "spotId": "spot-1336",

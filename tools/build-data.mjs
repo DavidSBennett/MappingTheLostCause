@@ -105,16 +105,27 @@ for (const spot of imp.spots) {
 
   if (post && num === null) num = numFromTitle(post.title);
 
-  // strip Gutenberg block comments; content is otherwise plain HTML
+  // strip Gutenberg block comments; content is otherwise plain HTML.
+  // Language stays verbatim — only whitespace is normalized: runs of
+  // &nbsp;/tabs/multiple spaces collapse to a single space.
+  // stray invisible characters WordPress leaves behind (object-replacement, zero-width)
+  const deJunk = (s) => s.replace(/[￼​﻿]/g, '');
+
   const html = post
-    ? post.content.replace(/<!--\s*\/?wp:[^>]*-->/g, '').replace(/\n{3,}/g, '\n\n').trim()
+    ? deJunk(post.content)
+        .replace(/<!--\s*\/?wp:[^>]*-->/g, '')
+        .replace(/(?:(?:&nbsp;| |[ \t])*(?:&nbsp;| )(?:&nbsp;| |[ \t])*)/g, ' ')
+        .replace(/[ \t]{2,}/g, ' ')
+        .replace(/<(p|h[1-6]|li|strong|em|span)([^>]*)>[ \t]+/g, '<$1$2>')
+        .replace(/\n{3,}/g, '\n\n')
+        .trim()
     : '';
 
   markers.push({
     spotId: spot.id,
     num,
     label: num !== null ? String(num) : '?',
-    title: post ? post.title.trim() : heading,
+    title: deJunk(post ? post.title : heading).replace(/\s+/g, ' ').replace(/\(\s+/g, '(').replace(/\s+\)/g, ')').trim(),
     x: spot.x,
     y: spot.y,
     html,
