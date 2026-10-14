@@ -52,6 +52,31 @@
     leafletMarkers[m.spotId] = mk;
   });
 
+  // ---------- historical map overlays ----------
+  // Overlay rects are in base-image pixels (y from the top); convert to
+  // CRS.Simple latlngs (lat measured from the bottom of the base image).
+  function rectToBounds(r) {
+    return L.latLngBounds(
+      [IMG.height - (r.y + r.height), r.x],   // south-west
+      [IMG.height - r.y, r.x + r.width]       // north-east
+    );
+  }
+
+  var overlayLayers = {};
+  (window.LOSTCAUSE_OVERLAYS || []).forEach(function (o) {
+    var layer = L.imageOverlay(o.url, rectToBounds(o.rect), { opacity: o.opacity });
+    if (o.on) layer.addTo(map);
+    overlayLayers[o.id] = layer;
+  });
+
+  // dev handle for tuning overlay alignment from the browser console:
+  //   LC_DEV.setRect('gwtw-metro', {x:..., y:..., width:..., height:...})
+  window.LC_DEV = {
+    map: map,
+    overlays: overlayLayers,
+    setRect: function (id, r) { overlayLayers[id].setBounds(rectToBounds(r)); return r; },
+  };
+
   // ---------- panels ----------
   function el(id) { return document.getElementById(id); }
 
@@ -68,7 +93,7 @@
     btn.addEventListener('click', function () { closePanel(btn.dataset.close); });
   });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') ['index-panel', 'detail-panel', 'about-panel'].forEach(closePanel);
+    if (e.key === 'Escape') ['index-panel', 'detail-panel', 'about-panel', 'overlays-panel'].forEach(closePanel);
 
     // global zoom keys — work anywhere on the page, not just with the map focused
     if (e.target.matches('input, textarea')) return;
@@ -119,6 +144,57 @@
     list.querySelectorAll('li').forEach(function (li) {
       li.hidden = q !== '' && li.dataset.text.indexOf(q) === -1;
     });
+  });
+
+  // ---------- overlays panel ----------
+  var overlayList = el('overlay-list');
+  (window.LOSTCAUSE_OVERLAYS || []).forEach(function (o) {
+    var layer = overlayLayers[o.id];
+
+    var row = document.createElement('div');
+    row.className = 'overlay-row';
+
+    var label = document.createElement('label');
+    label.className = 'overlay-toggle';
+    var cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.checked = !!o.on;
+    var name = document.createElement('span');
+    name.textContent = o.name;
+    label.appendChild(cb);
+    label.appendChild(name);
+
+    var slider = document.createElement('input');
+    slider.type = 'range';
+    slider.min = 0;
+    slider.max = 100;
+    slider.value = Math.round(o.opacity * 100);
+    slider.className = 'overlay-opacity';
+    slider.setAttribute('aria-label', 'Transparency of ' + o.name);
+    slider.disabled = !o.on;
+
+    var src = document.createElement('p');
+    src.className = 'overlay-source';
+    src.textContent = o.source;
+
+    cb.addEventListener('change', function () {
+      if (cb.checked) { layer.addTo(map); slider.disabled = false; }
+      else { map.removeLayer(layer); slider.disabled = true; }
+    });
+    slider.addEventListener('input', function () {
+      layer.setOpacity(slider.value / 100);
+    });
+
+    row.appendChild(label);
+    row.appendChild(slider);
+    row.appendChild(src);
+    overlayList.appendChild(row);
+  });
+
+  el('btn-overlays').addEventListener('click', function () {
+    var panel = el('overlays-panel');
+    panel.hidden = !panel.hidden;
+    this.setAttribute('aria-expanded', String(!panel.hidden));
   });
 
   el('btn-index').addEventListener('click', function () {

@@ -16,9 +16,19 @@ JavaScript rebuild of the WordPress Image Map Pro system previously at
   hover tooltip and a click-to-open reading panel containing the full archival text.
 - [data/markers.js](data/markers.js) — **generated file**: one record per marker with
   its position (the original Image Map Pro percent coordinates) and the post HTML.
-- [data/source/](data/source/) — the two source-of-truth exports:
+- [data/overlays.js](data/overlays.js) — historical map overlays, each a toggleable
+  Leaflet layer with its own transparency slider (the Overlays panel). An overlay's
+  `rect` positions it in base-image pixels; tune alignment live in the browser console
+  with `LC_DEV.setRect(id, rect)`, then bake the values into this file. Current
+  overlays: the 1934 Chamber of Commerce map (metro + downtown inset) printed in The
+  Atlanta Journal, Dec. 12, 1939, for the *Gone With the Wind* festival. In the metro
+  image the newspaper's printed inset box is cut to transparency so the base map shows
+  through.
+- [data/source/](data/source/) — the source-of-truth material:
   - `image-map-pro-export.json` — the Image Map Pro export (spot positions, tooltips, links)
   - `posts-export.csv` — the WordPress posts export (marker titles + archival content)
+  - `atlanta-journal-1939-12-12.md` — transcription of the Journal's marker legend
+    (map page + continuation page); the two page scans sit alongside it
 - [tools/build-data.mjs](tools/build-data.mjs) — joins the two exports into
   `data/markers.js`. Markers are matched by marker number in the tooltip heading,
   falling back to the WP post id in the spot link, then to URL-slug matching.

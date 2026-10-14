@@ -38,7 +38,7 @@ jobs:
           cp -r css publish/
           cp -r js publish/
           cp -r assets publish/
-          cp data/markers.js publish/data/
+          cp data/markers.js data/overlays.js publish/data/
           ls -laR publish/
 
       - name: Deploy via SSH (rsync)

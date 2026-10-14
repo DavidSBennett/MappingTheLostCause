@@ -209,6 +209,38 @@ html, body {
   color: var(--accent);
 }
 
+/* overlays panel */
+.overlay-hint {
+  font-size: 0.85rem;
+  font-style: italic;
+  opacity: 0.75;
+  margin-top: 0;
+}
+.overlay-row {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.overlay-toggle {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  font-weight: bold;
+  cursor: pointer;
+}
+.overlay-opacity {
+  display: block;
+  width: 100%;
+  margin: 10px 0 4px;
+  accent-color: var(--accent);
+}
+.overlay-opacity:disabled { opacity: 0.4; }
+.overlay-source {
+  font-size: 0.78rem;
+  font-style: italic;
+  opacity: 0.7;
+  margin: 4px 0 0;
+}
+
 @media (max-width: 640px) {
   #topbar .subtitle { display: none; }
   #topbar h1 { font-size: 1rem; }

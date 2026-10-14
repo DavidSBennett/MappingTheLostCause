@@ -15,6 +15,7 @@
     <p class="subtitle">The 1939 Atlanta Historical Marker Campaign &middot; 1945 Land Use Map of Atlanta</p>
     <div class="topbar-buttons">
       <button id="btn-index" type="button" aria-expanded="false" aria-controls="index-panel">Marker Index</button>
+      <button id="btn-overlays" type="button" aria-expanded="false" aria-controls="overlays-panel">Overlays</button>
       <button id="btn-about" type="button">About</button>
     </div>
   </header>
@@ -30,6 +31,19 @@
     <input id="index-filter" type="search" placeholder="Filter markers&hellip;" aria-label="Filter markers">
     <ul id="index-list"></ul>
   </nav>
+
+  <!-- Historical map overlays -->
+  <aside id="overlays-panel" class="panel" hidden aria-label="Map overlays">
+    <div class="panel-head">
+      <h2>Map Overlays</h2>
+      <button class="panel-close" type="button" data-close="overlays-panel" aria-label="Close overlays">&times;</button>
+    </div>
+    <div class="panel-body">
+      <p class="overlay-hint">Lay historical maps over the 1945 Land Use Map. The slider fades
+      an overlay from invisible (base map shows through) to fully opaque.</p>
+      <div id="overlay-list"></div>
+    </div>
+  </aside>
 
   <!-- Marker detail reader -->
   <aside id="detail-panel" class="panel" hidden aria-label="Marker details">
@@ -84,6 +98,7 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
           integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="data/markers.js"></script>
+  <script src="data/overlays.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
