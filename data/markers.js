@@ -7,8 +7,8 @@ window.LOSTCAUSE = {
     "num": 1,
     "label": "1",
     "title": "(1) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864.",
-    "x": 44.412,
-    "y": 61.382,
+    "x": 48.3,
+    "y": 2,
     "html": "<p id=\"1-A-point-in-the-outer-line-of-defense-works,-occupied-by-Hardee’s-Corps,-July-18-22,-1864.\"><span style=\"text-decoration: underline;\"><strong>Wilbur Kurtz's Archival Description</strong>:</span></p>\n\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\">(1) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864. From this position, Walker’s Division advanced to the Battle of Peachtree Creek, July 20, 1864.</p>\n\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\"><br>(On Beverly Road – Northside of same – some three or four hundred feet east of Peachtree Road)</p>\n\n<p id=\"block-3443798a-7c88-4de5-92f9-1fc7738947c4\"><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
   },
   {
@@ -25,8 +25,8 @@ window.LOSTCAUSE = {
     "num": 3,
     "label": "3",
     "title": "(3) Piedmont Park",
-    "x": 42.755,
-    "y": 61.74,
+    "x": 55,
+    "y": 14,
     "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(3) Piedmont Park. Site of Piedmont Exposition of 1887 and the Cotton States and International Exposition of 1895. After the latter exposition the property was purchased by the city, and has gradually been developed into the splendid Piedmont Park of today.</p>\n\n<p>(Some prominent location in Piedmont Park)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
   },
   {
