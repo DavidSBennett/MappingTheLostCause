@@ -67,9 +67,13 @@ for (const p of posts) {
 // Parsed from the transcription; matched to markers by number and appended to
 // the marker content under a cited heading. The Journal's numbering diverges
 // from the marker series at a few points — those numbers are excluded:
-//   52  (Journal: Fort McPherson / map: Peachtree's fork at Baker St.)
-//   100 (Journal: Gen. Gresham wounded / map: Site of the Battle of Atlanta)
-const JOURNAL_MISMATCHES = new Set([52, 100]);
+//   10  (Journal: Wilson's law office   / archive: Spelman College)
+//   52  (Journal: Fort McPherson        / archive: Peachtree's fork at Baker St.)
+//   54  (Journal: Dexter Niles home     / archive: Angier's Academy)
+//   56  (Journal: McPherson Monument    / archive: Battlefield of Ezra Church)
+//   58  (Journal: Whitehall Tavern      / archive: Walton Springs)
+//   100 (Journal: Gen. Gresham wounded  / archive: Site of the Battle of Atlanta)
+const JOURNAL_MISMATCHES = new Set([10, 52, 54, 56, 58, 100]);
 
 const journalMd = readFileSync(join(root, 'data/source/atlanta-journal-1939-12-12.md'), 'utf8');
 const journalEntries = new Map();
@@ -142,11 +146,12 @@ for (const spot of imp.spots) {
         .trim()
     : '';
 
-  // append the Journal's legend entry for this marker, when one exists
+  // append the Journal's legend entry for this marker, when one exists;
+  // a marker with no archival post gets the Journal text as its content
   const escapeHtml = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   const journal = num !== null ? journalEntries.get(num) : undefined;
-  if (journal && html) {
-    html += '\n\n<div class="journal-extract">' +
+  if (journal) {
+    html += (html ? '\n\n' : '') + '<div class="journal-extract">' +
       '<h3>The Atlanta Journal &mdash; December 12, 1939</h3>' +
       '<p>' + escapeHtml(journal) + '</p>' +
       '<p class="journal-cite">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p>' +

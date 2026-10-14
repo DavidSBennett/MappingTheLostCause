@@ -66,6 +66,42 @@ window.LOSTCAUSE = {
     "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(11) <span style=\"text-decoration: underline;\">Hardy Ivy’s Cabin</span>. Near this spot stood the cabin of hewn logs, erected by Hardy Ivy, the first resident in the present down-town area of Atlanta. Land Lot 51 was purchased by him from James Paden, Jan. 1, 1839. Ivy St. takes its name from this pioneer citizen.</p>\n\n<p>(Edgar Lafayette Ivy – grandson of Hardy – told the writer – July 3<sup>rd</sup>, 1937 – that Hardy Ivy built his cabin of hewn logs on the high ground between two hundred and three hundred feet north of Auburn Avenue, at a point – 1. In the middle of Ivy St. 2. Just East of Ivy St. a short distance. 3. Just West of Ivy St. a short distance. This marker would not be far from the correct site if it were emplaced on the Ivy St. front of the new Toll Bldg. – at the North end of same – where the iron fence begins. E.L. Ivy is the son of Henry P. Ivy whose house stood for many years at the N.E. cor. Pryor and Auburn – in Hardy Ivy’s Land Lot 51. This statement by E.L. Ivy is information he derived from his father, and we deem it the …</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Hardy Ivy's Cabin. First residence built in downtown Atlanta. Telephone Building, northeast corner Ivy Street and Auburn Avenue. (O-21)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
+    "spotId": "spot-j12",
+    "num": 12,
+    "label": "12",
+    "title": "(12) Historic lamp post - Whitehall and Alabama Streets",
+    "x": 41.24,
+    "y": 58.66,
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Historic lamp post. At the northeast corner of Whitehall and Alabama Streets. During the battle a shell shattered the base of the post. (M-21.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-j13",
+    "num": 13,
+    "label": "13",
+    "title": "(13) Site of the Marcus A. Bell residence - the 'Calico House'",
+    "x": 47.6,
+    "y": 53,
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Marcus A. Bell residence. Known as the \"Calico House.\" Used as supply depot by Confederates. (Southeast corner Auburn Avenue and Courtland Street. (P-20.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-9175",
+    "num": 18,
+    "label": "18",
+    "title": "(18) Site of the John H. James residence - Governor's Mansion, 1869-1921",
+    "x": 45.803,
+    "y": 47.005,
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of John H. James residence. Governor's Mansion, 1869–1921. Front wall Henry Grady Hotel. (N-20.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-j20",
+    "num": 20,
+    "label": "20",
+    "title": "(20) Site of the Austin Leyden House - Gen. George H. Thomas's headquarters",
+    "x": 43.72,
+    "y": 51.1,
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Austin Leyden House. Headquarters of Major General George H. Thomas, commander of the Federal Army of the Cumberland, 1864. Front wall Davison-Paxon Store. (N-20)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
     "spotId": "spot-7766",
     "num": 24,
     "label": "24",
@@ -183,6 +219,15 @@ window.LOSTCAUSE = {
     "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(41) Original structure of Fulton County Court House, erected on this site in 1881. Present edifice erected 1912 – 1914.</p>\n\n<p>(Fulton County Court House)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
   },
   {
+    "spotId": "spot-j46",
+    "num": 46,
+    "label": "46",
+    "title": "(46) The Cyclorama at Grant Park",
+    "x": 58.92,
+    "y": 84.79,
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The Cyclorama at Grant Park. This huge painting depicts the Battle of Atlanta on July 22, 1864. (E-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
     "spotId": "spot-1764",
     "num": 52,
     "label": "52",
@@ -201,6 +246,15 @@ window.LOSTCAUSE = {
     "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(57) This six acre tract in the southeast corner of Oakland Cemetery was purchased by the City of Atlanta June 6, 1850, and established as a cemetery. Some years later, additions were made, the present area comprising some 85 acres. </p>\n\n<p>(On the Oakland Cemetery wall, northeast corner Fair Street and Oakland Ave.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
   },
   {
+    "spotId": "spot-j59",
+    "num": 59,
+    "label": "59",
+    "title": "(59) Atlanta’s First City Hall",
+    "x": 43.95,
+    "y": 60.66,
+    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(59) Site of Atlanta’s first City Hall – 1853-1883. Used jointly by the Fulton County Courts. During the occupation of Atlanta by Federal troops, Sept, Nove, 1864, the 2d Mass. Regiment, constituting the Provost Guard, camped in temporary structures in the park. From here, Sept. 6, 1864, went forth the notice to the civilian populace to assemble for registration and eviction from the city. </p>\n\n<p>(Yard of State Capitol) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Atlanta's first City Hall—1853-1883. Present State Capitol site (O-23).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
     "spotId": "spot-1240",
     "num": 71,
     "label": "71",
@@ -210,6 +264,33 @@ window.LOSTCAUSE = {
     "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(71) Near this point Mayor James M. Calhoun and a committee of citizens made formal surrender of the city to Col John Coburn of the Federal 20<sup>th</sup> Corps, Sept. 2, 1864.</p>\n\n<p>Shortly after, the 20<sup>th</sup> Corps troops entered the city via Marietta St. and took possession of the City Hall.</p>\n\n<p>(Where Curran St. joins Marietta St…. several blocks above point where Bankhead highway joins Marietta St.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Near this point the formal surrender of the city by Mayor James M. Calhoun to the Federals took place September 2, 1864. Corner Marietta and Curran Streets, N. W. (C-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
+    "spotId": "spot-j74",
+    "num": 74,
+    "label": "74",
+    "title": "(74) Site of the Ephriam G. Ponder House",
+    "x": 24.64,
+    "y": 25.39,
+    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>A conspicuous building that stood on the line of eighty fortifications during the siege of Atlanta, July 22d – August 25<sup>th</sup>, 1864. A brick structure that hot shot failed to burn, but a battered ruin from the Federal artillery at 8<sup>th</sup> St. Here was posted Capt. Wm. C. Jeffress Nottoway Virginia, artillery. </p>\n\n<p>(Hilltop bounded by Ponder Ave., Oxford St., Third St. And Guyton St.) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the Ponder House, a conspicuous brick residence on the line of city fortifications during the siege of Atlanta. 709 Ponders Avenue, N. W. (D-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-j75",
+    "num": 75,
+    "label": "75",
+    "title": "(75) Site of Fort Hood",
+    "x": 29.35,
+    "y": 31.03,
+    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>northwestern salient of the city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. S. L. Barry’s battery. </p>\n\n<p>(At Fort Hood Place, immediately north of Marietta St. Just above where Bankhead Highway joins. The hill where the fort was has been out through by Fort Hood Place – For no good reason – and all traces of the fort have disappeared) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort Hood — Northwestern salient of the city fortifications during the siege of Atlanta. Across street from 790 Marietta Street, N. W. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-j76",
+    "num": 76,
+    "label": "76",
+    "title": "(76) Site of Old State Street School",
+    "x": 27.95,
+    "y": 28.14,
+    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>This eminence was crowned by a fort in the line of city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. Alcide Bouanchaud’s Pointe Coupee (Louisians) artillery, attached to Stewart’s Corps. </p>\n\n<p>(North side Wallac St. - west of state) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of old State Street School. This eminence was crowned by a fort in the line of city fortifications during the siege. Wallace Street, N. W., between Marietta Street and State Street. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
     "spotId": "spot-7425",
     "num": 77,
     "label": "77",
@@ -217,6 +298,15 @@ window.LOSTCAUSE = {
     "x": 77.243,
     "y": 64.158,
     "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>July 22d – Aug 25<sup>th</sup>, 1864. Here was posted Capt. Overton W. Barret’s Missouri battery. </p>\n\n<p>(This is the high hill south of Bankhead Highway viaduct over Railroad) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>282 Moreland Ave., S. E Koch Residence. Leggett's Hall. A crucial point in the Battle of Atlanta. See bronze tablet on gate post.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Hilltop. Site of one of the forts in line of city defense works during the siege of Atlanta. Look west from Bankhead Avenue bridge. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-j78",
+    "num": 78,
+    "label": "78",
+    "title": "(78) Site of Willis Carlisle's Store - 1845",
+    "x": 43.44,
+    "y": 54.68,
+    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>Site of the famous Trout House, one of Atlanta’s best known antebellum hotels, erected by Jeremiah F. Trout, 1855. Destroyed when Federal troops burned Atlanta, Nov. 14<sup>th</sup>, 1864. </p>\n\n<p>(Northeast corner Pryor &amp; Decatur Sts. - wall of the 10 Pryor St. Bldg.) </p>\n\n<p><strong>Newspaper Description: </strong></p>\n\n<p>[No Description] </p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Willis Carlisle's store, 1845. The Trout House, one of Atlanta's best known ante-bellum hotels erected on this site in 1855. Northeast corner Pryor and Decatur Streets. (N-21.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7689",
@@ -262,6 +352,15 @@ window.LOSTCAUSE = {
     "x": 76.7,
     "y": 46.864,
     "html": "<p>At or near this site stood a tall pine tree used as a single station by the Federal 15th Corps during the Battle of Atlanta, July 22d, 1864.</p>\n\n<p>(In yard of Fire Station No. 12 - Northwest corner DeKalb Ave. and Moreland Ave.)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>At or near this site stood a tall pine tree used as a signal station by the Federal Fifteenth Corps during the Battle of Atlanta. Northwest corner DeKalb and Moreland Avenues, N. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+  },
+  {
+    "spotId": "spot-1305",
+    "num": 96,
+    "label": "96",
+    "title": "(96) Howard House",
+    "x": 68.84,
+    "y": 51.696,
+    "html": "<p>Site of the Augustus F. Hurt House - erroneously called the Howard house. Built 1858. Gen. W. T. Sherman’s headquarters during battle of Atlanta, July 22, 1864. Gen. McPherson’s body was brought to this house shortly after his death on the battlefield in East Atlanta.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Augustus F. Hurt House. Gen. W. T. Sherman's headquarters during Battle of Atlanta, July 22, 1864. 1011 Cleburne Avenue, N. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-5243",
@@ -406,24 +505,6 @@ window.LOSTCAUSE = {
     "x": 42.531,
     "y": 53.036,
     "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(115) This house was built by Solomon Goodwin and his Indian neighbors in 1831. It still bears marks of vandalism by Federal soldiers who occupied the house in the summer of 1864.</p>\n\n<p>(In yard of old Goodwin House – Goodwin’s Crossing – Peachtree Road – Across same from a group of stores. This house is a little south of Hospital 48 and is in land lot 239 of the 18<sup>th</sup> district, DeKalb County.)</p>\n\n<p></p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
-  },
-  {
-    "spotId": "spot-9175",
-    "num": null,
-    "label": "?",
-    "title": "Spot 14",
-    "x": 45.803,
-    "y": 47.005,
-    "html": ""
-  },
-  {
-    "spotId": "spot-1305",
-    "num": null,
-    "label": "?",
-    "title": "Spot 64",
-    "x": 68.84,
-    "y": 51.696,
-    "html": ""
   }
 ]
 };
