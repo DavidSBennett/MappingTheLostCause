@@ -22,7 +22,7 @@
   });
 
   var bounds = L.latLngBounds([[0, 0], [IMG.height, IMG.width]]);
-  L.imageOverlay(IMG.url, bounds).addTo(map);
+  L.imageOverlay(IMG.url, bounds, { zIndex: 2 }).addTo(map);
   map.fitBounds(bounds);
   map.setMaxBounds(bounds.pad(0.25));
 
@@ -71,9 +71,20 @@
     );
   }
 
+  // Permanent festival-map backdrop: a second copy of the 1934 metro map at
+  // 100% opacity UNDER the 1945 sheet (zIndex 1 vs the base's 2), built from
+  // the same config rect so the two metro layers occupy identical space. The
+  // opaque base covers it inside the sheet; beyond the sheet's edges it gives
+  // the Peachtree Creek / Decatur / Fort McPherson pins their map context.
+  var metroCfg = (window.LOSTCAUSE_OVERLAYS || []).find(function (o) { return o.id === 'gwtw-metro'; });
+  if (metroCfg) {
+    L.imageOverlay(metroCfg.url, rectToBounds(metroCfg.rect), { opacity: 1, zIndex: 1 }).addTo(map);
+  }
+
+  // adjustable overlays stack above the base sheet
   var overlayLayers = {};
   (window.LOSTCAUSE_OVERLAYS || []).forEach(function (o) {
-    var layer = L.imageOverlay(o.url, rectToBounds(o.rect), { opacity: o.opacity });
+    var layer = L.imageOverlay(o.url, rectToBounds(o.rect), { opacity: o.opacity, zIndex: 3 });
     if (o.on) layer.addTo(map);
     overlayLayers[o.id] = layer;
   });

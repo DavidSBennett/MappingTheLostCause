@@ -142,7 +142,7 @@ for (const spot of imp.spots) {
   // stray invisible characters WordPress leaves behind (object-replacement, zero-width)
   const deJunk = (s) => s.replace(/[￼​﻿]/g, '');
 
-  let html = post
+  let archiveHtml = post
     ? deJunk(post.content)
         .replace(/<!--\s*\/?wp:[^>]*-->/g, '')
         .replace(/(?:(?:&nbsp;| |[ \t])*(?:&nbsp;| )(?:&nbsp;| |[ \t])*)/g, ' ')
@@ -150,6 +150,23 @@ for (const spot of imp.spots) {
         .replace(/<(p|h[1-6]|li|strong|em|span)([^>]*)>[ \t]+/g, '<$1$2>')
         .replace(/\n{3,}/g, '\n\n')
         .trim()
+    : '';
+
+  if (archiveHtml) {
+    // the box supplies this heading, so drop the post's inline version of it
+    archiveHtml = archiveHtml.replace(
+      /<p[^>]*>(?:\s|<[^>]+>)*Wilbur Kurtz[’']?s?\s+Archival Description(?:\s|:|<[^>]+>)*<\/p>\s*/i, '');
+    // drop the old inline "Newspaper Description" transcription (and all that
+    // follows it) — the cited Atlanta Journal extract supersedes it
+    const nd = archiveHtml.search(/<p[^>]*>(?:\s|<[^>]+>)*Newspaper Description/i);
+    if (nd !== -1) archiveHtml = archiveHtml.slice(0, nd).trim();
+  }
+
+  let html = archiveHtml
+    ? '<div class="archive-extract">' +
+      '<h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n' + archiveHtml +
+      '\n<p class="extract-cite">From the archival records of the 1939 Atlanta historical marker campaign.</p>' +
+      '</div>'
     : '';
 
   // append the Journal's legend entry for this marker, when one exists;
@@ -163,7 +180,7 @@ for (const spot of imp.spots) {
     html += (html ? '\n\n' : '') + '<div class="journal-extract">' +
       '<h3>The Atlanta Journal &mdash; December 12, 1939</h3>' +
       '<p>' + escapeHtml(journal) + '</p>' +
-      '<p class="journal-cite">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p>' +
+      '<p class="extract-cite">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p>' +
       '</div>';
   }
 
@@ -174,7 +191,7 @@ for (const spot of imp.spots) {
     title: deJunk(post ? post.title : heading).replace(/\s+/g, ' ').replace(/\(\s+/g, '(').replace(/\s+\)/g, ')').trim(),
     x: spot.x,
     y: spot.y,
-    src: post && journal ? 'both' : post ? 'archive' : journal ? 'journal' : 'none',
+    src: archiveHtml && journal ? 'both' : archiveHtml ? 'archive' : journal ? 'journal' : 'none',
     html,
   });
 }

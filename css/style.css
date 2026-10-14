@@ -238,7 +238,9 @@ html, body {
   color: var(--accent);
 }
 
-/* newspaper extract inside the marker reading panel */
+/* source extracts inside the marker reading panel — accent color matches the
+   pin color for that source: archive = red, newspaper = blue */
+.archive-extract,
 .journal-extract {
   margin-top: 18px;
   padding: 12px 14px;
@@ -246,12 +248,17 @@ html, body {
   border: 1px solid var(--rule);
   border-left: 4px solid var(--accent);
 }
+.journal-extract { border-left-color: #30587c; }
+.panel-body > .archive-extract:first-child,
+.panel-body > .journal-extract:first-child { margin-top: 0; }
+.archive-extract h3,
 .journal-extract h3 {
   margin: 0 0 8px;
   font-size: 0.95rem;
 }
+.archive-extract p,
 .journal-extract p { margin: 0 0 8px; }
-.journal-cite {
+.extract-cite {
   font-size: 0.78rem;
   font-style: italic;
   opacity: 0.7;

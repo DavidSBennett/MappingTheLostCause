@@ -10,7 +10,7 @@ window.LOSTCAUSE = {
     "x": 48.3,
     "y": 2,
     "src": "archive",
-    "html": "<p id=\"1-A-point-in-the-outer-line-of-defense-works,-occupied-by-Hardee’s-Corps,-July-18-22,-1864.\"><span style=\"text-decoration: underline;\"><strong>Wilbur Kurtz's Archival Description</strong>:</span></p>\n\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\">(1) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864. From this position, Walker’s Division advanced to the Battle of Peachtree Creek, July 20, 1864.</p>\n\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\"><br>(On Beverly Road – Northside of same – some three or four hundred feet east of Peachtree Road)</p>\n\n<p id=\"block-3443798a-7c88-4de5-92f9-1fc7738947c4\"><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\">(1) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864. From this position, Walker’s Division advanced to the Battle of Peachtree Creek, July 20, 1864.</p>\n\n<p id=\"block-12c0571a-9426-4b76-a666-1c5172c76869\"><br>(On Beverly Road – Northside of same – some three or four hundred feet east of Peachtree Road)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-7214",
@@ -20,7 +20,7 @@ window.LOSTCAUSE = {
     "x": 59.312,
     "y": 4.763,
     "src": "both",
-    "html": "<p id=\"1-A-point-in-the-outer-line-of-defense-works,-occupied-by-Hardee’s-Corps,-July-18-22,-1864.\"><span style=\"text-decoration: underline;\"><strong>Wilbur Kurtz's Archival Description</strong>:</span></p>\n\n<p>(2) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864. From this position Bate’s Division advanced to the Battle of Peachtree Creek, July 20, 1864.</p>\n\n<p>(North end of Piedmont Park on a 25 ft. remnant of the intrenched line still visible)</p>\n\n<p id=\"block-3443798a-7c88-4de5-92f9-1fc7738947c4\"><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>A point in the outer line of defense works, occupied by Hardee's Corps, July 18–22, 1864. From this position Bates' Division (Confederate) advanced to the Battle of Peachtree Creek, July 20, 1864. North end of Piedmont Park. Remnant of intrenched line still visible. (E-4)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(2) A point in the outer line of defense works, occupied by Hardee’s Corps, July 18 – 22, 1864. From this position Bate’s Division advanced to the Battle of Peachtree Creek, July 20, 1864.</p>\n\n<p>(North end of Piedmont Park on a 25 ft. remnant of the intrenched line still visible)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>A point in the outer line of defense works, occupied by Hardee's Corps, July 18–22, 1864. From this position Bates' Division (Confederate) advanced to the Battle of Peachtree Creek, July 20, 1864. North end of Piedmont Park. Remnant of intrenched line still visible. (E-4)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-6280",
@@ -30,7 +30,7 @@ window.LOSTCAUSE = {
     "x": 55,
     "y": 14,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(3) Piedmont Park. Site of Piedmont Exposition of 1887 and the Cotton States and International Exposition of 1895. After the latter exposition the property was purchased by the city, and has gradually been developed into the splendid Piedmont Park of today.</p>\n\n<p>(Some prominent location in Piedmont Park)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(3) Piedmont Park. Site of Piedmont Exposition of 1887 and the Cotton States and International Exposition of 1895. After the latter exposition the property was purchased by the city, and has gradually been developed into the splendid Piedmont Park of today.</p>\n\n<p>(Some prominent location in Piedmont Park)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-5985",
@@ -40,7 +40,7 @@ window.LOSTCAUSE = {
     "x": 40.571,
     "y": 54.763,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(5) Site of Atlanta’s first tannery and shoe factory, operated by J. C. Orme &amp; Co. The stream, formerly in this valley, was known as Tanyard Branch.</p>\n\n<p>(Northeast corner, Toolwood Drive and Simpson St.)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(5) Site of Atlanta’s first tannery and shoe factory, operated by J. C. Orme &amp; Co. The stream, formerly in this valley, was known as Tanyard Branch.</p>\n\n<p>(Northeast corner, Toolwood Drive and Simpson St.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-9083",
@@ -50,7 +50,7 @@ window.LOSTCAUSE = {
     "x": 49.753,
     "y": 21.769,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(6) At or near this site, James J. Andrews, leader of the celebrated Andrews Railroad Raid, was executed as a spy, June 7<sup>th</sup>, 1862, and was buried near the scaffold. In April, 1887, his remains were removed to the National Cemetery at Chattanooga, Tenn.</p>\n\n<p>(Any one of the four corners – Juniper and Third Sts.)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>James J. Andrews, leader of the celebrated Andrews Raid, was executed as a spy June 7, 1862. Southeast corner Juniper and Third Streets. (P-12)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(6) At or near this site, James J. Andrews, leader of the celebrated Andrews Railroad Raid, was executed as a spy, June 7<sup>th</sup>, 1862, and was buried near the scaffold. In April, 1887, his remains were removed to the National Cemetery at Chattanooga, Tenn.</p>\n\n<p>(Any one of the four corners – Juniper and Third Sts.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>James J. Andrews, leader of the celebrated Andrews Raid, was executed as a spy June 7, 1862. Southeast corner Juniper and Third Streets. (P-12)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3775",
@@ -60,7 +60,7 @@ window.LOSTCAUSE = {
     "x": 38.944,
     "y": 56.524,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(7) The old Richard C. Todd home – place – established 1822 and still occupied by his descendants. The oldest continuous home of one family in Atlanta. The original house was destroyed by fire in 1911. The family cemetery is on a hill in rear of the house.</p>\n\n<p>(816 Greenwood Avenue, N.E.)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(7) The old Richard C. Todd home – place – established 1822 and still occupied by his descendants. The oldest continuous home of one family in Atlanta. The original house was destroyed by fire in 1911. The family cemetery is on a hill in rear of the house.</p>\n\n<p>(816 Greenwood Avenue, N.E.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-jn10",
@@ -70,7 +70,7 @@ window.LOSTCAUSE = {
     "x": 41.88,
     "y": 53,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Woodrow Wilson's law office, 1882–1883. Bronze tablet on side of Ivan Allen-Marshall Building. Erected 1876. Southeast corner Marietta and Forsyth Streets. (O-21)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Woodrow Wilson's law office, 1882–1883. Bronze tablet on side of Ivan Allen-Marshall Building. Erected 1876. Southeast corner Marietta and Forsyth Streets. (O-21)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-4158",
@@ -80,7 +80,7 @@ window.LOSTCAUSE = {
     "x": 46.381,
     "y": 52.588,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(11) <span style=\"text-decoration: underline;\">Hardy Ivy’s Cabin</span>. Near this spot stood the cabin of hewn logs, erected by Hardy Ivy, the first resident in the present down-town area of Atlanta. Land Lot 51 was purchased by him from James Paden, Jan. 1, 1839. Ivy St. takes its name from this pioneer citizen.</p>\n\n<p>(Edgar Lafayette Ivy – grandson of Hardy – told the writer – July 3<sup>rd</sup>, 1937 – that Hardy Ivy built his cabin of hewn logs on the high ground between two hundred and three hundred feet north of Auburn Avenue, at a point – 1. In the middle of Ivy St. 2. Just East of Ivy St. a short distance. 3. Just West of Ivy St. a short distance. This marker would not be far from the correct site if it were emplaced on the Ivy St. front of the new Toll Bldg. – at the North end of same – where the iron fence begins. E.L. Ivy is the son of Henry P. Ivy whose house stood for many years at the N.E. cor. Pryor and Auburn – in Hardy Ivy’s Land Lot 51. This statement by E.L. Ivy is information he derived from his father, and we deem it the …</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Hardy Ivy's Cabin. First residence built in downtown Atlanta. Telephone Building, northeast corner Ivy Street and Auburn Avenue. (O-21)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(11) <span style=\"text-decoration: underline;\">Hardy Ivy’s Cabin</span>. Near this spot stood the cabin of hewn logs, erected by Hardy Ivy, the first resident in the present down-town area of Atlanta. Land Lot 51 was purchased by him from James Paden, Jan. 1, 1839. Ivy St. takes its name from this pioneer citizen.</p>\n\n<p>(Edgar Lafayette Ivy – grandson of Hardy – told the writer – July 3<sup>rd</sup>, 1937 – that Hardy Ivy built his cabin of hewn logs on the high ground between two hundred and three hundred feet north of Auburn Avenue, at a point – 1. In the middle of Ivy St. 2. Just East of Ivy St. a short distance. 3. Just West of Ivy St. a short distance. This marker would not be far from the correct site if it were emplaced on the Ivy St. front of the new Toll Bldg. – at the North end of same – where the iron fence begins. E.L. Ivy is the son of Henry P. Ivy whose house stood for many years at the N.E. cor. Pryor and Auburn – in Hardy Ivy’s Land Lot 51. This statement by E.L. Ivy is information he derived from his father, and we deem it the …</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Hardy Ivy's Cabin. First residence built in downtown Atlanta. Telephone Building, northeast corner Ivy Street and Auburn Avenue. (O-21)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j12",
@@ -90,7 +90,7 @@ window.LOSTCAUSE = {
     "x": 41.24,
     "y": 58.66,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Historic lamp post. At the northeast corner of Whitehall and Alabama Streets. During the battle a shell shattered the base of the post. (M-21.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Historic lamp post. At the northeast corner of Whitehall and Alabama Streets. During the battle a shell shattered the base of the post. (M-21.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j13",
@@ -100,7 +100,7 @@ window.LOSTCAUSE = {
     "x": 47.6,
     "y": 53,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Marcus A. Bell residence. Known as the \"Calico House.\" Used as supply depot by Confederates. (Southeast corner Auburn Avenue and Courtland Street. (P-20.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Marcus A. Bell residence. Known as the \"Calico House.\" Used as supply depot by Confederates. (Southeast corner Auburn Avenue and Courtland Street. (P-20.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-9175",
@@ -110,7 +110,7 @@ window.LOSTCAUSE = {
     "x": 45.803,
     "y": 47.005,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of John H. James residence. Governor's Mansion, 1869–1921. Front wall Henry Grady Hotel. (N-20.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of John H. James residence. Governor's Mansion, 1869–1921. Front wall Henry Grady Hotel. (N-20.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j20",
@@ -120,7 +120,7 @@ window.LOSTCAUSE = {
     "x": 43.72,
     "y": 51.1,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Austin Leyden House. Headquarters of Major General George H. Thomas, commander of the Federal Army of the Cumberland, 1864. Front wall Davison-Paxon Store. (N-20)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Austin Leyden House. Headquarters of Major General George H. Thomas, commander of the Federal Army of the Cumberland, 1864. Front wall Davison-Paxon Store. (N-20)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7766",
@@ -130,7 +130,7 @@ window.LOSTCAUSE = {
     "x": 42.17,
     "y": 51.295,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz' archival description</strong>:</p>\n\n<p>(24) Site of the residence of Maxwell R. Berry; occupied as Headquarters by Maj. Gen. William W. Loring, CSA., 1864.</p>\n\n<p>(Northwest corner, Walton and Fairlie Streets. The house faced on Fairlie Street.).</p>\n\n<p><strong>Newspaper description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(24) Site of the residence of Maxwell R. Berry; occupied as Headquarters by Maj. Gen. William W. Loring, CSA., 1864.</p>\n\n<p>(Northwest corner, Walton and Fairlie Streets. The house faced on Fairlie Street.).</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-5584",
@@ -140,7 +140,7 @@ window.LOSTCAUSE = {
     "x": 44.618,
     "y": 51.546,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description</strong>:</p>\n\n<p>(25) Site of Wesley Chapel, 1848-1870; First Methodist Church, 1870-1904. North half of lot occupied by Confederate Commissary Dept., 1863-1864, and known as the “Storrs School” after its removal to the N.W. corner of Houston St. and Piedmont Ave.</p>\n\n<p>(On Candler Bldg., - preferably near main entrance – Peachtree St. side).</p>\n\n<p><strong>Newspaper Description</strong>:</p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(25) Site of Wesley Chapel, 1848-1870; First Methodist Church, 1870-1904. North half of lot occupied by Confederate Commissary Dept., 1863-1864, and known as the “Storrs School” after its removal to the N.W. corner of Houston St. and Piedmont Ave.</p>\n\n<p>(On Candler Bldg., - preferably near main entrance – Peachtree St. side).</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-2174",
@@ -150,7 +150,7 @@ window.LOSTCAUSE = {
     "x": 42.059,
     "y": 52.518,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(26) Site of the first State Capitol in Atlanta – 1868-1889. Erected by Hannibal I. Kimball as an Opera House. Demolished in 1900.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of the first State Capitol in Atlanta – 1868-1889. Western Union Building, southwest corner Marietta and Forsyth Streets.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of first State Capitol in Atlanta—1868-1889. Western Union Building, southwest corner Marietta and Forsyth Streets. (M-21)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(26) Site of the first State Capitol in Atlanta – 1868-1889. Erected by Hannibal I. Kimball as an Opera House. Demolished in 1900.</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of first State Capitol in Atlanta—1868-1889. Western Union Building, southwest corner Marietta and Forsyth Streets. (M-21)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7579",
@@ -160,7 +160,7 @@ window.LOSTCAUSE = {
     "x": 37.913,
     "y": 56.298,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(27) Approximate site of the Mineral Spring, a popular resort in early Atlanta history.</p>\n\n<p>(North end of the train sheds – Terminal Station).</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(27) Approximate site of the Mineral Spring, a popular resort in early Atlanta history.</p>\n\n<p>(North end of the train sheds – Terminal Station).</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-4034",
@@ -170,7 +170,7 @@ window.LOSTCAUSE = {
     "x": 43.707,
     "y": 54.024,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(28) Site of Confederate Arsenal and Military Storehouse, 1863-1864.</p>\n\n<p>(Gee Muse Clothing Co., N.W. Peachtree and Walton Sts.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of Confederate arsenal and military storehouse, 1863-1864. George Muse Company store, Confederate barracks and prison, 1862-1864. Peachtree Street, entrance Peachtree Arcade.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Confederate arsenal and military storehouse, 1863-1864. George Muse Company store Confederate barracks and prison, 1862-1864. Peachtree Street, entrance Peachtree Arcade. (M-21)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(28) Site of Confederate Arsenal and Military Storehouse, 1863-1864.</p>\n\n<p>(Gee Muse Clothing Co., N.W. Peachtree and Walton Sts.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Confederate arsenal and military storehouse, 1863-1864. George Muse Company store Confederate barracks and prison, 1862-1864. Peachtree Street, entrance Peachtree Arcade. (M-21)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3639",
@@ -180,7 +180,7 @@ window.LOSTCAUSE = {
     "x": 42.637,
     "y": 55.815,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(30) Site of Concert Hall, used as Confederate Barracks and Prison, 1862-1864. From this building, James J. Andrews, of the Andrews Raid, was taken to the place of execution. Here stood the National Hotel.</p>\n\n<p>(Peachtree St., front Peachtree Arcade).</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(30) Site of Concert Hall, used as Confederate Barracks and Prison, 1862-1864. From this building, James J. Andrews, of the Andrews Raid, was taken to the place of execution. Here stood the National Hotel.</p>\n\n<p>(Peachtree St., front Peachtree Arcade).</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-9507",
@@ -190,7 +190,7 @@ window.LOSTCAUSE = {
     "x": 45.503,
     "y": 56.317,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(32) Site of the Atheneum, Atlanta’s first theatre, built by James E. Williams, 1854-1855.</p>\n\n<p>(North side Decatur St., East of Peachtree – two-thirds of distance to Pryor).</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(32) Site of the Atheneum, Atlanta’s first theatre, built by James E. Williams, 1854-1855.</p>\n\n<p>(North side Decatur St., East of Peachtree – two-thirds of distance to Pryor).</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-315",
@@ -200,7 +200,7 @@ window.LOSTCAUSE = {
     "x": 44.089,
     "y": 55.846,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(33) Here stood the Tin and Sheet Metal Shop of Moses W. Formwalt – 1845-1850. This block was then known as “Murrel’s Row”.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(33) Here stood the Tin and Sheet Metal Shop of Moses W. Formwalt – 1845-1850. This block was then known as “Murrel’s Row”.</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-1115",
@@ -210,7 +210,7 @@ window.LOSTCAUSE = {
     "x": 41.137,
     "y": 55.391,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(34) Site of Engine House – Atlanta Volunteer Fire Co. No. 1, (organized March 24, 1851). Building erected 1854.</p>\n\n<p>(Southwest corner railroad and Broad St.)</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(34) Site of Engine House – Atlanta Volunteer Fire Co. No. 1, (organized March 24, 1851). Building erected 1854.</p>\n\n<p>(Southwest corner railroad and Broad St.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-6350",
@@ -220,7 +220,7 @@ window.LOSTCAUSE = {
     "x": 43.154,
     "y": 55.203,
     "src": "archive",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(35) Site of the Atlanta Hotel, Atlanta’s first regular hostelry, operated by Dr. Joseph Thompson. Erected 1846; destroyed by the Federal army in 1864.</p>\n\n<p><strong>Newspaper Description:</strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(35) Site of the Atlanta Hotel, Atlanta’s first regular hostelry, operated by Dr. Joseph Thompson. Erected 1846; destroyed by the Federal army in 1864.</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-5289",
@@ -230,7 +230,7 @@ window.LOSTCAUSE = {
     "x": 43.652,
     "y": 56.705,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz's Archival Description:</strong></p>\n\n<p>(36) The area bounded by Decatur, Pryor, Alabama Sts., and Central Avenue, was the old State Square, consisting of five acres, deeded to the State of Georgia by Samuel Mitchell, July 11, 1842. Here the terminus of the State Railroad was re-located, a temporary depot and a two-story house (Chief Engineer’s office) were erected. The name “Terminus” was dropped and Marthasville substituted, its charter granted Dec. 23, 1843.</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>Site of terminus of Western &amp; Atlantic R. R. and old Union passenger station.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of terminus of Western &amp; Atlantic R. R. and old Union passenger station. (N-21).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(36) The area bounded by Decatur, Pryor, Alabama Sts., and Central Avenue, was the old State Square, consisting of five acres, deeded to the State of Georgia by Samuel Mitchell, July 11, 1842. Here the terminus of the State Railroad was re-located, a temporary depot and a two-story house (Chief Engineer’s office) were erected. The name “Terminus” was dropped and Marthasville substituted, its charter granted Dec. 23, 1843.</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of terminus of Western &amp; Atlantic R. R. and old Union passenger station. (N-21).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j37",
@@ -240,7 +240,7 @@ window.LOSTCAUSE = {
     "x": 27.54,
     "y": -18.63,
     "src": "both",
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(37) <span style=\"text-decoration: underline;\">Battlefield of Peachtree Creek</span> – July 20, 1865.</p>\n\n<p>Left of the line – Brig. Gen. Alpheus S. William’s div. of the Federal 20<sup>th</sup> Corps. The right extended westward toward Howell Mill Rd.</p>\n\n<p>These troops were assaulted by Walthall’s division of Stewart’s Corps (Confederate) – Cantey’s brigade of which moved against Robinson’s brigade at this point which formed, with Jones’ brigade of Geary’s division, a re-entrant angle in the Federal lines.</p>\n\n<p>(On west side of North Side Drive – at summit of ridge north of Northfleet Road, where William’s breastworks are still visible)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description</span>:</p>\n\n<p>37. Battlefield of Peachtree Creek. Federal position. East side Northside Drive between Northfleet and Mckinley Roads. (D-3)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Peachtree Creek. Federal position. East side Northside Drive between Northfleet and McKinley Roads. (D-3).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(37) <span style=\"text-decoration: underline;\">Battlefield of Peachtree Creek</span> – July 20, 1865.</p>\n\n<p>Left of the line – Brig. Gen. Alpheus S. William’s div. of the Federal 20<sup>th</sup> Corps. The right extended westward toward Howell Mill Rd.</p>\n\n<p>These troops were assaulted by Walthall’s division of Stewart’s Corps (Confederate) – Cantey’s brigade of which moved against Robinson’s brigade at this point which formed, with Jones’ brigade of Geary’s division, a re-entrant angle in the Federal lines.</p>\n\n<p>(On west side of North Side Drive – at summit of ridge north of Northfleet Road, where William’s breastworks are still visible)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Peachtree Creek. Federal position. East side Northside Drive between Northfleet and McKinley Roads. (D-3).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j38",
@@ -250,7 +250,7 @@ window.LOSTCAUSE = {
     "x": 33.71,
     "y": -13.79,
     "src": "both",
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(38) Flags Captured – Battlefield of Peachtree Creek – July 20, 1864.</p>\n\n<p>About 3:30 p.m., Gen. Geary posted the 33d New Jersey regiment on this hill as an outpost to his main line at Collier Road. Such was the suddenness of Loring’s onslaught that the 33d was overwhelmed and barely escaped capture. John E. Abernathy – 27<sup>th</sup> Alabama – seized the New Jersey State Flag, which was later carried into Atlanta and jubilantly displayed as a trophy.</p>\n\n<p>(On high hill south of Collier Road – the hill is west of Tanyard Ranch and is crossed by a line of steel towers and power lines)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>38. Battlefield of Peachtree Creek. Point of assault on 33rd New Jersey Regiment by Confederates. South side Collier Road at power line steel tower. (D-3)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Peachtree Creek. Point of assault on 33rd New Jersey Regiment by Confederates. South side Collier Road at power line steel tower. (D-3).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(38) Flags Captured – Battlefield of Peachtree Creek – July 20, 1864.</p>\n\n<p>About 3:30 p.m., Gen. Geary posted the 33d New Jersey regiment on this hill as an outpost to his main line at Collier Road. Such was the suddenness of Loring’s onslaught that the 33d was overwhelmed and barely escaped capture. John E. Abernathy – 27<sup>th</sup> Alabama – seized the New Jersey State Flag, which was later carried into Atlanta and jubilantly displayed as a trophy.</p>\n\n<p>(On high hill south of Collier Road – the hill is west of Tanyard Ranch and is crossed by a line of steel towers and power lines)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Peachtree Creek. Point of assault on 33rd New Jersey Regiment by Confederates. South side Collier Road at power line steel tower. (D-3).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-5829",
@@ -260,7 +260,7 @@ window.LOSTCAUSE = {
     "x": 42.906,
     "y": 54.058,
     "src": "archive",
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz Archival Description:</span></p>\n\n<p>(39) This site, known in early Atlanta history as Kyle’s Corner, was the location of a store owned and operated by Thomas Kyle. At the first Atlanta city election, held here Jan. 29, 1848, Moses H. Formwalt was elected Mayor and as Council Members: James A Collins, Benj. F. Bomar, Robt. W. Bullard, Anderson W. Walton, L. C. Simpson and Jonas S. Smith.</p>\n\n<p>(On the William-Oliver Bldg. at Five Points)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(39) This site, known in early Atlanta history as Kyle’s Corner, was the location of a store owned and operated by Thomas Kyle. At the first Atlanta city election, held here Jan. 29, 1848, Moses H. Formwalt was elected Mayor and as Council Members: James A Collins, Benj. F. Bomar, Robt. W. Bullard, Anderson W. Walton, L. C. Simpson and Jonas S. Smith.</p>\n\n<p>(On the William-Oliver Bldg. at Five Points)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-8311",
@@ -270,7 +270,7 @@ window.LOSTCAUSE = {
     "x": 42.075,
     "y": 58.986,
     "src": "archive",
-    "html": "<p><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description:</span></p>\n\n<p>(41) Original structure of Fulton County Court House, erected on this site in 1881. Present edifice erected 1912 – 1914.</p>\n\n<p>(Fulton County Court House)</p>\n\n<p><span style=\"text-decoration: underline;\">Newspaper Description:</span></p>\n\n<p>[NO DESCRIPTION]</p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(41) Original structure of Fulton County Court House, erected on this site in 1881. Present edifice erected 1912 – 1914.</p>\n\n<p>(Fulton County Court House)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-j42",
@@ -280,7 +280,7 @@ window.LOSTCAUSE = {
     "x": 113.79,
     "y": 36.55,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>On this spot was begun the Battle of Decatur July 22, 1864. Just inside gates on Agnes Scott campus (I-5).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>On this spot was begun the Battle of Decatur July 22, 1864. Just inside gates on Agnes Scott campus (I-5).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j44",
@@ -290,7 +290,7 @@ window.LOSTCAUSE = {
     "x": 113.32,
     "y": 30.03,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>During the Battle of Decatur July 22, 1864, there was hot fighting in and around the old Courthouse, which stood on this square. Wheeler's Cavalry made a gallant charge here and captured a battery of federal artillery with officers and men. Courthouse (I-5).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>During the Battle of Decatur July 22, 1864, there was hot fighting in and around the old Courthouse, which stood on this square. Wheeler's Cavalry made a gallant charge here and captured a battery of federal artillery with officers and men. Courthouse (I-5).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j46",
@@ -300,7 +300,7 @@ window.LOSTCAUSE = {
     "x": 58.92,
     "y": 84.79,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The Cyclorama at Grant Park. This huge painting depicts the Battle of Atlanta on July 22, 1864. (E-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The Cyclorama at Grant Park. This huge painting depicts the Battle of Atlanta on July 22, 1864. (E-7.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-1764",
@@ -310,7 +310,7 @@ window.LOSTCAUSE = {
     "x": 44.551,
     "y": 44.227,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(52) Here, May 1, 1886, Jefferson Davis, President of the Southern Confederacy, spoke at the ceremonies incident to the unveiling of the marble statue of Senator Benj. H. Hill The statue was later removed to the State Capitol. </p>\n\n<p>(Where the Peachtrees fork at Baker St.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(52) Here, May 1, 1886, Jefferson Davis, President of the Southern Confederacy, spoke at the ceremonies incident to the unveiling of the marble statue of Senator Benj. H. Hill The statue was later removed to the State Capitol. </p>\n\n<p>(Where the Peachtrees fork at Baker St.) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-jn52",
@@ -320,7 +320,7 @@ window.LOSTCAUSE = {
     "x": 8.79,
     "y": 120.92,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort McPherson. U. S. Military Reservation. Established on this site in 1885. Headquarters Fourth Corps Area, U. S. A. Lee Street, S. W. Four miles southwest of city. (C-8.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort McPherson. U. S. Military Reservation. Established on this site in 1885. Headquarters Fourth Corps Area, U. S. A. Lee Street, S. W. Four miles southwest of city. (C-8.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-jn54",
@@ -330,7 +330,7 @@ window.LOSTCAUSE = {
     "x": 13.5,
     "y": 20.6,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>1042 West Marietta Street, N. W. Old Dexter Niles home. Location of Gen. Joseph E. Johnston's headquarters, July 17 and 18, 1864, where command of Confederate Army was turned over to Gen. John B. Hood (G-4).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>1042 West Marietta Street, N. W. Old Dexter Niles home. Location of Gen. Joseph E. Johnston's headquarters, July 17 and 18, 1864, where command of Confederate Army was turned over to Gen. John B. Hood (G-4).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-jn56",
@@ -340,7 +340,7 @@ window.LOSTCAUSE = {
     "x": 84.8,
     "y": 67.8,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Intersection of McPherson and Monument Avenue, S. E. Site of McPherson Monument, erected upon the spot where Gen. James B. McPherson, commanding the Federal Army of the Tennessee, was killed on July 22, 1864 (G-7).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Intersection of McPherson and Monument Avenue, S. E. Site of McPherson Monument, erected upon the spot where Gen. James B. McPherson, commanding the Federal Army of the Tennessee, was killed on July 22, 1864 (G-7).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7295",
@@ -350,7 +350,7 @@ window.LOSTCAUSE = {
     "x": 58.984,
     "y": 63.291,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(57) This six acre tract in the southeast corner of Oakland Cemetery was purchased by the City of Atlanta June 6, 1850, and established as a cemetery. Some years later, additions were made, the present area comprising some 85 acres. </p>\n\n<p>(On the Oakland Cemetery wall, northeast corner Fair Street and Oakland Ave.) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(57) This six acre tract in the southeast corner of Oakland Cemetery was purchased by the City of Atlanta June 6, 1850, and established as a cemetery. Some years later, additions were made, the present area comprising some 85 acres. </p>\n\n<p>(On the Oakland Cemetery wall, northeast corner Fair Street and Oakland Ave.) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-jn58",
@@ -360,7 +360,7 @@ window.LOSTCAUSE = {
     "x": 22.6,
     "y": 80.9,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of old Whitehall Tavern (C-7).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of old Whitehall Tavern (C-7).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j59",
@@ -370,7 +370,7 @@ window.LOSTCAUSE = {
     "x": 43.95,
     "y": 60.66,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz’s Archival Description</span></strong>:</p>\n\n<p>(59) Site of Atlanta’s first City Hall – 1853-1883. Used jointly by the Fulton County Courts. During the occupation of Atlanta by Federal troops, Sept, Nove, 1864, the 2d Mass. Regiment, constituting the Provost Guard, camped in temporary structures in the park. From here, Sept. 6, 1864, went forth the notice to the civilian populace to assemble for registration and eviction from the city. </p>\n\n<p>(Yard of State Capitol) </p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Atlanta's first City Hall—1853-1883. Present State Capitol site (O-23).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(59) Site of Atlanta’s first City Hall – 1853-1883. Used jointly by the Fulton County Courts. During the occupation of Atlanta by Federal troops, Sept, Nove, 1864, the 2d Mass. Regiment, constituting the Provost Guard, camped in temporary structures in the park. From here, Sept. 6, 1864, went forth the notice to the civilian populace to assemble for registration and eviction from the city. </p>\n\n<p>(Yard of State Capitol) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Atlanta's first City Hall—1853-1883. Present State Capitol site (O-23).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j66",
@@ -380,7 +380,7 @@ window.LOSTCAUSE = {
     "x": 18.36,
     "y": -11.85,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(66) Battlefield of Peachtree Creek – July 20, 1864</p>\n\n<p>The Hiram H Embry Plantation – a conspicuous locality during the battle. Reynolds brigade, the left of Walthall’s division, Stewart’s Corps, swept across this ground, northeastward, to assault William’s division of the Federal 20<sup>th</sup> Corps posted above Northfleet Rd.</p>\n\n<p>Near this spot was killed Maj. W. C. Preston of S. Carolina, while supervising the placement of Selden’s battery.</p>\n\n<p>(Southwest corner Collier Rd. and Howell Mill Road)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Hiram Embry plantation. Southwest corner Collier Road and Howell Mill Road. (D-3.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(66) Battlefield of Peachtree Creek – July 20, 1864</p>\n\n<p>The Hiram H Embry Plantation – a conspicuous locality during the battle. Reynolds brigade, the left of Walthall’s division, Stewart’s Corps, swept across this ground, northeastward, to assault William’s division of the Federal 20<sup>th</sup> Corps posted above Northfleet Rd.</p>\n\n<p>Near this spot was killed Maj. W. C. Preston of S. Carolina, while supervising the placement of Selden’s battery.</p>\n\n<p>(Southwest corner Collier Rd. and Howell Mill Road)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Hiram Embry plantation. Southwest corner Collier Road and Howell Mill Road. (D-3.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j67",
@@ -390,7 +390,7 @@ window.LOSTCAUSE = {
     "x": 16.37,
     "y": -14.49,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(67) Site of old Mt. Zion Church - Battlefield of Peachtree Creek, July 20, 1864</p>\n\n<p>Advanced position of Confederate skirmish line just before the battle. Here Reynold’s div. of Stewart’s Corps deployed for the assault against William’s div. of the Federal 20<sup>th</sup> Corps.</p>\n\n<p>Burial place of Hiram H. Embry, whose plantation was contiguous and Sergt. Wm. R. Moore of Wheeler’s Cavalry, killed three days before the battle.</p>\n\n<p>(In the yard of North Side Park Baptist Church No. 1877 Howell Mill Road, N.W.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Old Mount Zion Church. 1877 Howell Mill Road, N. W. (D-3.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(67) Site of old Mt. Zion Church - Battlefield of Peachtree Creek, July 20, 1864</p>\n\n<p>Advanced position of Confederate skirmish line just before the battle. Here Reynold’s div. of Stewart’s Corps deployed for the assault against William’s div. of the Federal 20<sup>th</sup> Corps.</p>\n\n<p>Burial place of Hiram H. Embry, whose plantation was contiguous and Sergt. Wm. R. Moore of Wheeler’s Cavalry, killed three days before the battle.</p>\n\n<p>(In the yard of North Side Park Baptist Church No. 1877 Howell Mill Road, N.W.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Old Mount Zion Church. 1877 Howell Mill Road, N. W. (D-3.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-jn68",
@@ -400,7 +400,7 @@ window.LOSTCAUSE = {
     "x": 22.97,
     "y": -1.44,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Confederate Gen. Alexander P. Stewart's headquarters during Battle of Peachtree Creek. Howell Mill Road and Bishop Street, N. W. (C-3.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Confederate Gen. Alexander P. Stewart's headquarters during Battle of Peachtree Creek. Howell Mill Road and Bishop Street, N. W. (C-3.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j70",
@@ -410,7 +410,7 @@ window.LOSTCAUSE = {
     "x": 41.25,
     "y": -19.87,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(70) Battlefield of Peachtree Creek – July 20, 1864</p>\n\n<p>The Andrew J. Collier house, a part of which was standing during the battle. A short distance southwest of it. Brig. Gen. Clement H. Stevens, commanding a brigade in walker’s div. of Hardee’s Corps, was killed while leading his brigade into the battle.</p>\n\n<p>(In yard of the white house at the southwest corner of Peachtree and Collier Roads)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The Andrew J. Collier House, a part of which was standing during the battle. Southwest corner Peachtree and Collier Road. (C-3.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(70) Battlefield of Peachtree Creek – July 20, 1864</p>\n\n<p>The Andrew J. Collier house, a part of which was standing during the battle. A short distance southwest of it. Brig. Gen. Clement H. Stevens, commanding a brigade in walker’s div. of Hardee’s Corps, was killed while leading his brigade into the battle.</p>\n\n<p>(In yard of the white house at the southwest corner of Peachtree and Collier Roads)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The Andrew J. Collier House, a part of which was standing during the battle. Southwest corner Peachtree and Collier Road. (C-3.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-1240",
@@ -420,7 +420,7 @@ window.LOSTCAUSE = {
     "x": 26.282,
     "y": 24.279,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(71) Near this point Mayor James M. Calhoun and a committee of citizens made formal surrender of the city to Col John Coburn of the Federal 20<sup>th</sup> Corps, Sept. 2, 1864.</p>\n\n<p>Shortly after, the 20<sup>th</sup> Corps troops entered the city via Marietta St. and took possession of the City Hall.</p>\n\n<p>(Where Curran St. joins Marietta St…. several blocks above point where Bankhead highway joins Marietta St.)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Near this point the formal surrender of the city by Mayor James M. Calhoun to the Federals took place September 2, 1864. Corner Marietta and Curran Streets, N. W. (C-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(71) Near this point Mayor James M. Calhoun and a committee of citizens made formal surrender of the city to Col John Coburn of the Federal 20<sup>th</sup> Corps, Sept. 2, 1864.</p>\n\n<p>Shortly after, the 20<sup>th</sup> Corps troops entered the city via Marietta St. and took possession of the City Hall.</p>\n\n<p>(Where Curran St. joins Marietta St…. several blocks above point where Bankhead highway joins Marietta St.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Near this point the formal surrender of the city by Mayor James M. Calhoun to the Federals took place September 2, 1864. Corner Marietta and Curran Streets, N. W. (C-4.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j72",
@@ -430,7 +430,7 @@ window.LOSTCAUSE = {
     "x": 28.28,
     "y": -12.15,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz’s Archival Description</strong>:</p>\n\n<p>(72) Loring’s Hill – Position of Maj. Gen. William W. Loring’s div. of Stewart’s Corps (Confederate), afternoon of July 20, 1864. From this line Loring’s troops moved northward to attack the Federal Gen. Geary’s division at Collier Road.</p>\n\n<p>(The high hill east of North Side Drive between Bishop Street and the Seaboard RR. This is in Land Lot 147 of the 17<sup>th</sup> Dist.- Fulton County. The breastworks still crown the summit of this hill)</p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Loring's Hill. Northside Drive, east side, near Collier Road.</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(72) Loring’s Hill – Position of Maj. Gen. William W. Loring’s div. of Stewart’s Corps (Confederate), afternoon of July 20, 1864. From this line Loring’s troops moved northward to attack the Federal Gen. Geary’s division at Collier Road.</p>\n\n<p>(The high hill east of North Side Drive between Bishop Street and the Seaboard RR. This is in Land Lot 147 of the 17<sup>th</sup> Dist.- Fulton County. The breastworks still crown the summit of this hill)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Loring's Hill. Northside Drive, east side, near Collier Road.</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j73",
@@ -440,7 +440,7 @@ window.LOSTCAUSE = {
     "x": 15.55,
     "y": 2.42,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>The Huff House- Erected 1855. Headquarters of Maj. T. R. Hotchkiss, Artillery battalion commander of Hardee’s Corps – Confederates., July 18-20, 1861. Occupied by Federal officers during siege of Atlanta – protected from destruction by the hoisting of a British Flag. </p>\n\n<p>(70 Huff Road. Leave Marietta St. via steel bridge that carries Marietta Ca., interurban line over the W &amp; A RR. - turn right into Huff Road at the end of the bridge) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The House of Three Flags. Confederate, Federal and British. The Huff House. Erected 1855. 70 Huff Road, N. W., near Marietta Road. (C-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>The Huff House- Erected 1855. Headquarters of Maj. T. R. Hotchkiss, Artillery battalion commander of Hardee’s Corps – Confederates., July 18-20, 1861. Occupied by Federal officers during siege of Atlanta – protected from destruction by the hoisting of a British Flag. </p>\n\n<p>(70 Huff Road. Leave Marietta St. via steel bridge that carries Marietta Ca., interurban line over the W &amp; A RR. - turn right into Huff Road at the end of the bridge) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>The House of Three Flags. Confederate, Federal and British. The Huff House. Erected 1855. 70 Huff Road, N. W., near Marietta Road. (C-4.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j74",
@@ -450,7 +450,7 @@ window.LOSTCAUSE = {
     "x": 24.64,
     "y": 25.39,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>A conspicuous building that stood on the line of eighty fortifications during the siege of Atlanta, July 22d – August 25<sup>th</sup>, 1864. A brick structure that hot shot failed to burn, but a battered ruin from the Federal artillery at 8<sup>th</sup> St. Here was posted Capt. Wm. C. Jeffress Nottoway Virginia, artillery. </p>\n\n<p>(Hilltop bounded by Ponder Ave., Oxford St., Third St. And Guyton St.) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the Ponder House, a conspicuous brick residence on the line of city fortifications during the siege of Atlanta. 709 Ponders Avenue, N. W. (D-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>A conspicuous building that stood on the line of eighty fortifications during the siege of Atlanta, July 22d – August 25<sup>th</sup>, 1864. A brick structure that hot shot failed to burn, but a battered ruin from the Federal artillery at 8<sup>th</sup> St. Here was posted Capt. Wm. C. Jeffress Nottoway Virginia, artillery. </p>\n\n<p>(Hilltop bounded by Ponder Ave., Oxford St., Third St. And Guyton St.) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the Ponder House, a conspicuous brick residence on the line of city fortifications during the siege of Atlanta. 709 Ponders Avenue, N. W. (D-4.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j75",
@@ -460,7 +460,7 @@ window.LOSTCAUSE = {
     "x": 29.35,
     "y": 31.03,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>northwestern salient of the city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. S. L. Barry’s battery. </p>\n\n<p>(At Fort Hood Place, immediately north of Marietta St. Just above where Bankhead Highway joins. The hill where the fort was has been out through by Fort Hood Place – For no good reason – and all traces of the fort have disappeared) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort Hood — Northwestern salient of the city fortifications during the siege of Atlanta. Across street from 790 Marietta Street, N. W. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>northwestern salient of the city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. S. L. Barry’s battery. </p>\n\n<p>(At Fort Hood Place, immediately north of Marietta St. Just above where Bankhead Highway joins. The hill where the fort was has been out through by Fort Hood Place – For no good reason – and all traces of the fort have disappeared) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort Hood — Northwestern salient of the city fortifications during the siege of Atlanta. Across street from 790 Marietta Street, N. W. (D-5.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j76",
@@ -470,7 +470,7 @@ window.LOSTCAUSE = {
     "x": 27.95,
     "y": 28.14,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>This eminence was crowned by a fort in the line of city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. Alcide Bouanchaud’s Pointe Coupee (Louisians) artillery, attached to Stewart’s Corps. </p>\n\n<p>(North side Wallac St. - west of state) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>[No Description]</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of old State Street School. This eminence was crowned by a fort in the line of city fortifications during the siege. Wallace Street, N. W., between Marietta Street and State Street. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>This eminence was crowned by a fort in the line of city fortifications during the siege of Atlanta, July 22d – Aug. 25<sup>th</sup>, 1864. Here was posted Capt. Alcide Bouanchaud’s Pointe Coupee (Louisians) artillery, attached to Stewart’s Corps. </p>\n\n<p>(North side Wallac St. - west of state) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of old State Street School. This eminence was crowned by a fort in the line of city fortifications during the siege. Wallace Street, N. W., between Marietta Street and State Street. (D-5.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7425",
@@ -480,7 +480,7 @@ window.LOSTCAUSE = {
     "x": 77.243,
     "y": 64.158,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>July 22d – Aug 25<sup>th</sup>, 1864. Here was posted Capt. Overton W. Barret’s Missouri battery. </p>\n\n<p>(This is the high hill south of Bankhead Highway viaduct over Railroad) </p>\n\n<p><strong>Newspaper Description:</strong></p>\n\n<p>282 Moreland Ave., S. E Koch Residence. Leggett's Hall. A crucial point in the Battle of Atlanta. See bronze tablet on gate post.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Hilltop. Site of one of the forts in line of city defense works during the siege of Atlanta. Look west from Bankhead Avenue bridge. (D-5.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>July 22d – Aug 25<sup>th</sup>, 1864. Here was posted Capt. Overton W. Barret’s Missouri battery. </p>\n\n<p>(This is the high hill south of Bankhead Highway viaduct over Railroad) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Hilltop. Site of one of the forts in line of city defense works during the siege of Atlanta. Look west from Bankhead Avenue bridge. (D-5.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-j78",
@@ -490,7 +490,7 @@ window.LOSTCAUSE = {
     "x": 43.44,
     "y": 54.68,
     "src": "both",
-    "html": "<p><strong>Wilbur Kurtz Archival Description:</strong></p>\n\n<p>Site of the famous Trout House, one of Atlanta’s best known antebellum hotels, erected by Jeremiah F. Trout, 1855. Destroyed when Federal troops burned Atlanta, Nov. 14<sup>th</sup>, 1864. </p>\n\n<p>(Northeast corner Pryor &amp; Decatur Sts. - wall of the 10 Pryor St. Bldg.) </p>\n\n<p><strong>Newspaper Description: </strong></p>\n\n<p>[No Description] </p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Willis Carlisle's store, 1845. The Trout House, one of Atlanta's best known ante-bellum hotels erected on this site in 1855. Northeast corner Pryor and Decatur Streets. (N-21.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Site of the famous Trout House, one of Atlanta’s best known antebellum hotels, erected by Jeremiah F. Trout, 1855. Destroyed when Federal troops burned Atlanta, Nov. 14<sup>th</sup>, 1864. </p>\n\n<p>(Northeast corner Pryor &amp; Decatur Sts. - wall of the 10 Pryor St. Bldg.) </p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Willis Carlisle's store, 1845. The Trout House, one of Atlanta's best known ante-bellum hotels erected on this site in 1855. Northeast corner Pryor and Decatur Streets. (N-21.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7689",
@@ -500,7 +500,7 @@ window.LOSTCAUSE = {
     "x": 47.048,
     "y": 63.937,
     "src": "both",
-    "html": "<p>Site of the first Fulton County Jail - erected 1855; destroyed by the Federal army, Nov. 1865. It was a two story brick structure 45 by 50 ft., surrounded by a high board fence.</p>\n\n<p>Here were imprisoned 21 Andrews Raiders in 1862. On June 18 seven of them were executed at southeast corner of Fair st. and S. Park Ave. On Oct. 16th, eight escaped; the remaining six were sent to Richmond and exchanged.</p>\n\n<p>A second jail occupied this site after the war, until 1897.</p>\n\n<p>(Northeast corner - Fair St. and Fraser St. North line of jail lot on prolongation of Cravens Alley. East line of lot, Kingsley St,</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the first Fulton County Jail, erected 1855, destroyed by the Federal Army November, 1864. Andrews railroad raiders imprisoned here 1862. Northeast corner Fraser and Fair Streets. (E-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Site of the first Fulton County Jail - erected 1855; destroyed by the Federal army, Nov. 1865. It was a two story brick structure 45 by 50 ft., surrounded by a high board fence.</p>\n\n<p>Here were imprisoned 21 Andrews Raiders in 1862. On June 18 seven of them were executed at southeast corner of Fair st. and S. Park Ave. On Oct. 16th, eight escaped; the remaining six were sent to Richmond and exchanged.</p>\n\n<p>A second jail occupied this site after the war, until 1897.</p>\n\n<p>(Northeast corner - Fair St. and Fraser St. North line of jail lot on prolongation of Cravens Alley. East line of lot, Kingsley St,</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the first Fulton County Jail, erected 1855, destroyed by the Federal Army November, 1864. Andrews railroad raiders imprisoned here 1862. Northeast corner Fraser and Fair Streets. (E-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3136",
@@ -510,7 +510,7 @@ window.LOSTCAUSE = {
     "x": 44.861,
     "y": 95.078,
     "src": "both",
-    "html": "<p>Route taken by Lt. Gen. Van. J. Hardee’s Corps and Maj. Gen. Joseph Wheeler’s Cavalry on its flanking march to the rear of McPherson's Army of the Tennessee, night of July 21, 1864, which resulted in the Battle of Atlanta on the 22d</p>\n\n<p>Same route was taken by Stewart’s Corps when Atlanta was evacuated, Sept. 1st, 1864.</p>\n\n<p>A portion of Sherman’s Army, moving into the city from Jonesboro, came in on this road.</p>\n\n<p>(Capitol Ave - some conspicuous place near Capital - State Highway Bldg. for instance)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Old McDonough Road, now Capitol Avenue. Route taken by Hardee's Corps and Wheeler's Cavalry (Confederate) en route to Battle of Atlanta. (E-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Route taken by Lt. Gen. Van. J. Hardee’s Corps and Maj. Gen. Joseph Wheeler’s Cavalry on its flanking march to the rear of McPherson's Army of the Tennessee, night of July 21, 1864, which resulted in the Battle of Atlanta on the 22d</p>\n\n<p>Same route was taken by Stewart’s Corps when Atlanta was evacuated, Sept. 1st, 1864.</p>\n\n<p>A portion of Sherman’s Army, moving into the city from Jonesboro, came in on this road.</p>\n\n<p>(Capitol Ave - some conspicuous place near Capital - State Highway Bldg. for instance)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Old McDonough Road, now Capitol Avenue. Route taken by Hardee's Corps and Wheeler's Cavalry (Confederate) en route to Battle of Atlanta. (E-7.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-7645",
@@ -520,7 +520,7 @@ window.LOSTCAUSE = {
     "x": 21.938,
     "y": 22.822,
     "src": "both",
-    "html": "<p>Federal siege lines crossed Marietta St. at or near this point, during operations against the city by Sherman’s Army. July 22d, - Aug. 25th, 1864</p>\n\n<p>(Intersection of Brady Ave. and Marietta St.)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Federal siege lines crossed Marietta Street at or near this point during operations against the city by Sherman's army, July 22-August 25, 1864. Intersection Marietta Street and Brady Avenue. (B-4.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Federal siege lines crossed Marietta St. at or near this point, during operations against the city by Sherman’s Army. July 22d, - Aug. 25th, 1864</p>\n\n<p>(Intersection of Brady Ave. and Marietta St.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Federal siege lines crossed Marietta Street at or near this point during operations against the city by Sherman's army, July 22-August 25, 1864. Intersection Marietta Street and Brady Avenue. (B-4.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-5113",
@@ -530,7 +530,7 @@ window.LOSTCAUSE = {
     "x": 45.869,
     "y": 49.543,
     "src": "both",
-    "html": "<p>Near this spot, July 22d, 1864, the first Federal shell fired into the city killed a small child.</p>\n\n<p>(Southwest corner - Ivy &amp; Ellis Sts.)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Near this spot July 22, 1864, the first Federal shell fired into the city killed a small child. Southwest corner Ivy and Ellis Streets, N. E. (O-19.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Near this spot, July 22d, 1864, the first Federal shell fired into the city killed a small child.</p>\n\n<p>(Southwest corner - Ivy &amp; Ellis Sts.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Near this spot July 22, 1864, the first Federal shell fired into the city killed a small child. Southwest corner Ivy and Ellis Streets, N. E. (O-19.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3270",
@@ -540,7 +540,7 @@ window.LOSTCAUSE = {
     "x": 76.7,
     "y": 46.864,
     "src": "both",
-    "html": "<p>At or near this site stood a tall pine tree used as a single station by the Federal 15th Corps during the Battle of Atlanta, July 22d, 1864.</p>\n\n<p>(In yard of Fire Station No. 12 - Northwest corner DeKalb Ave. and Moreland Ave.)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>At or near this site stood a tall pine tree used as a signal station by the Federal Fifteenth Corps during the Battle of Atlanta. Northwest corner DeKalb and Moreland Avenues, N. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>At or near this site stood a tall pine tree used as a single station by the Federal 15th Corps during the Battle of Atlanta, July 22d, 1864.</p>\n\n<p>(In yard of Fire Station No. 12 - Northwest corner DeKalb Ave. and Moreland Ave.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>At or near this site stood a tall pine tree used as a signal station by the Federal Fifteenth Corps during the Battle of Atlanta. Northwest corner DeKalb and Moreland Avenues, N. E. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-1305",
@@ -550,7 +550,7 @@ window.LOSTCAUSE = {
     "x": 68.84,
     "y": 51.696,
     "src": "both",
-    "html": "<p>Site of the Augustus F. Hurt House - erroneously called the Howard house. Built 1858. Gen. W. T. Sherman’s headquarters during battle of Atlanta, July 22, 1864. Gen. McPherson’s body was brought to this house shortly after his death on the battlefield in East Atlanta.</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Augustus F. Hurt House. Gen. W. T. Sherman's headquarters during Battle of Atlanta, July 22, 1864. 1011 Cleburne Avenue, N. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Site of the Augustus F. Hurt House - erroneously called the Howard house. Built 1858. Gen. W. T. Sherman’s headquarters during battle of Atlanta, July 22, 1864. Gen. McPherson’s body was brought to this house shortly after his death on the battlefield in East Atlanta.</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Augustus F. Hurt House. Gen. W. T. Sherman's headquarters during Battle of Atlanta, July 22, 1864. 1011 Cleburne Avenue, N. E. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-5243",
@@ -560,7 +560,7 @@ window.LOSTCAUSE = {
     "x": 74.459,
     "y": 46.682,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(97) DeGress' Batter - Position of Battery H, 1st Illinois Light Artillery, commanded by Capt. Francis DeGress - July 22d, 1864. This battery was captured by the confederate forces of Manigault's brigade, Hindman's Div., Cheatham's Corps - late re-taken by infantry of the 15th and 16th Corps.</p>\n\n<p>(DeGress Ave. - west side of street - at the top of the grade where street turns to right)</p>\n\n<p></p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<p>Position of Battery H. 1st. Illinois Light Artillery commanded by Captain Francis De Gress - July 22, 1864.</p>\n\n<p>(De Gress Ave. N.E., Just north of DeKalb Avenue.) (F-6)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>De Gress' Battery—Position of Battery H, First Illinois Light Artillery, commanded by Captain Francis De Gress, July 22, 1864. De Gress Avenue, N. E., just north of DeKalb Avenue. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(97) DeGress' Batter - Position of Battery H, 1st Illinois Light Artillery, commanded by Capt. Francis DeGress - July 22d, 1864. This battery was captured by the confederate forces of Manigault's brigade, Hindman's Div., Cheatham's Corps - late re-taken by infantry of the 15th and 16th Corps.</p>\n\n<p>(DeGress Ave. - west side of street - at the top of the grade where street turns to right)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>De Gress' Battery—Position of Battery H, First Illinois Light Artillery, commanded by Captain Francis De Gress, July 22, 1864. De Gress Avenue, N. E., just north of DeKalb Avenue. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3148",
@@ -570,7 +570,7 @@ window.LOSTCAUSE = {
     "x": 76.032,
     "y": 48.779,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(99) Battlefield of Atlanta - July 22d, 1864</p>\n\n<p>Site of the George M. Troup Hurt House - an unfinished brick residence at the time of the battle. Headquarters of the 10th S. Carolina regt. July 18-21, occupied by Lightburn's brigade, Smith's div. of the Federal 15th Corp, early the 22d.</p>\n\n<p>Afternoon of the 22d, Manigault's brigade of Hindman's div., Cheatham's Corps, U.S.A., captured this position but was forced to withdraw that evening. This was the house that appears conspicuously in the Cyclorama of the Battle of Atlanta at Grant Park.</p>\n\n<p>(DeGress Avenue - in yard of the stone edifice of the East Atlanta Primitive Baptist Church)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<p>(99) Battlefield of Atlanta - July 22d, 1864 Site of General M. Troup Hurt House. This was the house that appears conspicuously in the Cyclorama of the Battle of Atlanta in Grant Park. (195 de Grass Avenue, North East) F-6)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Atlanta, July 22, 1864. Site of George M. Troup Hurt House. This was the house that appears conspicuously in the Cyclorama of the Battle of Atlanta in Grant Park. 195 De Gress Avenue, N. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(99) Battlefield of Atlanta - July 22d, 1864</p>\n\n<p>Site of the George M. Troup Hurt House - an unfinished brick residence at the time of the battle. Headquarters of the 10th S. Carolina regt. July 18-21, occupied by Lightburn's brigade, Smith's div. of the Federal 15th Corp, early the 22d.</p>\n\n<p>Afternoon of the 22d, Manigault's brigade of Hindman's div., Cheatham's Corps, U.S.A., captured this position but was forced to withdraw that evening. This was the house that appears conspicuously in the Cyclorama of the Battle of Atlanta at Grant Park.</p>\n\n<p>(DeGress Avenue - in yard of the stone edifice of the East Atlanta Primitive Baptist Church)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Atlanta, July 22, 1864. Site of George M. Troup Hurt House. This was the house that appears conspicuously in the Cyclorama of the Battle of Atlanta in Grant Park. 195 De Gress Avenue, N. E. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-72",
@@ -580,7 +580,7 @@ window.LOSTCAUSE = {
     "x": 93.418,
     "y": 62.551,
     "src": "archive",
-    "html": "<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(100) Late afternoon, July 20, 1864, Brig. Gen. Gresham, commanding 4<sup>th</sup> div. Federal 17<sup>th</sup> Corps, was severely wounded while pressing the attack on Wheeler’s Cavalry, posted on Leggett’s Hill. From this point, July 22d, Gen. ,McPherson watched the fighting in the valley of sugar creek where Walker’s div. of Hardee’s Corps, C.S.A, was attacking the 16<sup>th</sup> corps. A few minutes later, McPherson rode forward and was killed one block southward where his monument stands.</p>\n\n<p>(Hill-top where Murphy Junior High School now stands)</p>\n\n<p>Newspaper description:</p>\n\n<p></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(100) Late afternoon, July 20, 1864, Brig. Gen. Gresham, commanding 4<sup>th</sup> div. Federal 17<sup>th</sup> Corps, was severely wounded while pressing the attack on Wheeler’s Cavalry, posted on Leggett’s Hill. From this point, July 22d, Gen. ,McPherson watched the fighting in the valley of sugar creek where Walker’s div. of Hardee’s Corps, C.S.A, was attacking the 16<sup>th</sup> corps. A few minutes later, McPherson rode forward and was killed one block southward where his monument stands.</p>\n\n<p>(Hill-top where Murphy Junior High School now stands)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-jn100",
@@ -590,7 +590,7 @@ window.LOSTCAUSE = {
     "x": 81.2,
     "y": 65,
     "src": "journal",
-    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Brig. General Walter Q. Gresham, Federal, severely wounded while pressing an attack on Wheeler's Cavalry. Whiteford Avenue and Boulevard Drive, S. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Brig. General Walter Q. Gresham, Federal, severely wounded while pressing an attack on Wheeler's Cavalry. Whiteford Avenue and Boulevard Drive, S. E. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-9354",
@@ -600,7 +600,7 @@ window.LOSTCAUSE = {
     "x": 92.85,
     "y": 62.3,
     "src": "both",
-    "html": "<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(101) Battlefield of Atlanta, July 22, 1864</p>\n\n<p>At this point the Battle of Atlanta began at noon. Walker’s and Bate’s divisions of Hardee’s Corps (C.S.A), moving from southward and eastward to attack the rear of McPherson’s troops on Leggett’s Hill and along the Moreland Ave., unexpectedly struck sweeny’s div. of the Federal 16<sup>th</sup> Corps, moving southward on Clay St. from north of the Georgia R.R.</p>\n\n<p>(At the intersection of Clay St. and Memorial Drive)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Atlanta, July 22, 1864. Battle of Atlanta began here at noon, July 22. Northeast corner Clay Street and Memorial Drive. (G-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>Wilbur J. Kurtz's archival description:</p>\n\n<p>(101) Battlefield of Atlanta, July 22, 1864</p>\n\n<p>At this point the Battle of Atlanta began at noon. Walker’s and Bate’s divisions of Hardee’s Corps (C.S.A), moving from southward and eastward to attack the rear of McPherson’s troops on Leggett’s Hill and along the Moreland Ave., unexpectedly struck sweeny’s div. of the Federal 16<sup>th</sup> Corps, moving southward on Clay St. from north of the Georgia R.R.</p>\n\n<p>(At the intersection of Clay St. and Memorial Drive)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Battlefield of Atlanta, July 22, 1864. Battle of Atlanta began here at noon, July 22. Northeast corner Clay Street and Memorial Drive. (G-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-6155",
@@ -610,7 +610,7 @@ window.LOSTCAUSE = {
     "x": 63.743,
     "y": 74.159,
     "src": "both",
-    "html": "<p>(103) These entrenched works are a part of the fortified line that encircled Atlanta during the siege of Atlanta, July 22d – Aug. 25th, 1864. From this line, the troops of Cheatham’s corps advanced eastward across entrenchment Creek valley to attack the Federal 15<sup>th</sup> and 17<sup>th</sup> corps along Moreland Ave., July 22d.</p>\n\n<p>(Triangle bounded by Kalb – Bryan and Waldo Sts.- 100 feet east of S. Boulevard, and just south of Home for Incurables)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Point in fortified line that encircled Atlanta during the siege of the city, July 22-August 25, 1864. Breastwork still visible. Triangle bounded by Kalb, Bryan and Waldo Streets, S. E. (E-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(103) These entrenched works are a part of the fortified line that encircled Atlanta during the siege of Atlanta, July 22d – Aug. 25th, 1864. From this line, the troops of Cheatham’s corps advanced eastward across entrenchment Creek valley to attack the Federal 15<sup>th</sup> and 17<sup>th</sup> corps along Moreland Ave., July 22d.</p>\n\n<p>(Triangle bounded by Kalb – Bryan and Waldo Sts.- 100 feet east of S. Boulevard, and just south of Home for Incurables)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Point in fortified line that encircled Atlanta during the siege of the city, July 22-August 25, 1864. Breastwork still visible. Triangle bounded by Kalb, Bryan and Waldo Streets, S. E. (E-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3720",
@@ -620,7 +620,7 @@ window.LOSTCAUSE = {
     "x": 83.87,
     "y": 66.98,
     "src": "both",
-    "html": "<p>(104) This monument marks the scene of the death of Maj. Gen. James B. McPherson, commanding the federal army of Tennessee, July 22, 1864.</p>\n\n<p>Gen. McPherson was en route from northward to the left of his line at Glenwood and flat shoals Rd. At this point the rode squarely into a line of skirmishers of Cleburne’s div. of Hardee’s Corps and was shot by them when he refused to surrender.</p>\n\n<p>(Within the iron railing of the McPherson monument- McPherson Ave., and Monument Ave., in east Atlanta. No inscription is on the monument other than the one word – “McPherson”.)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Monument marking the scene of the death of Major General James B. McPherson, commander Federal Army of the Tennessee, July 22, 1864. McPherson and Monument Avenue, S. E. (F-6.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(104) This monument marks the scene of the death of Maj. Gen. James B. McPherson, commanding the federal army of Tennessee, July 22, 1864.</p>\n\n<p>Gen. McPherson was en route from northward to the left of his line at Glenwood and flat shoals Rd. At this point the rode squarely into a line of skirmishers of Cleburne’s div. of Hardee’s Corps and was shot by them when he refused to surrender.</p>\n\n<p>(Within the iron railing of the McPherson monument- McPherson Ave., and Monument Ave., in east Atlanta. No inscription is on the monument other than the one word – “McPherson”.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Monument marking the scene of the death of Major General James B. McPherson, commander Federal Army of the Tennessee, July 22, 1864. McPherson and Monument Avenue, S. E. (F-6.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-9205",
@@ -630,7 +630,7 @@ window.LOSTCAUSE = {
     "x": 61.288,
     "y": 85.471,
     "src": "both",
-    "html": "<p>(105) Fort Walker – On this, the summit of Dabney’s Hill, was constructed the southeastern salient angle of this entrenched line of the fortifications surrounding Atlanta, occupied by Confederate forces during the siege of the city, July 22 – Aug. 25, 1864.</p>\n\n<p>It was named Fort Walker in honor of Maj. Gen. N. H. T. Walker who killed in battle two miles east of this point, July 22d, 1864.</p>\n\n<p>(Southeastern corner of Grant Park)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort Walker—Southeastern salient of the intrenched line of fortifications surrounding Atlanta. Southeastern corner of Grant Park. (E-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(105) Fort Walker – On this, the summit of Dabney’s Hill, was constructed the southeastern salient angle of this entrenched line of the fortifications surrounding Atlanta, occupied by Confederate forces during the siege of the city, July 22 – Aug. 25, 1864.</p>\n\n<p>It was named Fort Walker in honor of Maj. Gen. N. H. T. Walker who killed in battle two miles east of this point, July 22d, 1864.</p>\n\n<p>(Southeastern corner of Grant Park)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fort Walker—Southeastern salient of the intrenched line of fortifications surrounding Atlanta. Southeastern corner of Grant Park. (E-7.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-6082",
@@ -640,7 +640,7 @@ window.LOSTCAUSE = {
     "x": 56.803,
     "y": 81.084,
     "src": "both",
-    "html": "<p>(106) This fragment of breastworks is a remnant of the city fortifications occupied by Confederate forces during the siege of Atlanta, July 22 – Aug. 25, 1864. The line completely encircled the city, aggregating twelve miles of forts and rifle pits, and was laid out by Lemuel P. Grant, engineer, who in 1883 donated the original 100 acres of this area for a city park.</p>\n\n<p>(North of the driveway, nearly midway between Augusta Ave. entrance of Grant Park and the refreshment building in front of Cyclorama)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fragment of breastworks occupied by Confederate forces during the siege of Atlanta, July 22-August 25, 1864. North of driveway leading from Augusta Avenue entrance of Grant Park (E-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(106) This fragment of breastworks is a remnant of the city fortifications occupied by Confederate forces during the siege of Atlanta, July 22 – Aug. 25, 1864. The line completely encircled the city, aggregating twelve miles of forts and rifle pits, and was laid out by Lemuel P. Grant, engineer, who in 1883 donated the original 100 acres of this area for a city park.</p>\n\n<p>(North of the driveway, nearly midway between Augusta Ave. entrance of Grant Park and the refreshment building in front of Cyclorama)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Fragment of breastworks occupied by Confederate forces during the siege of Atlanta, July 22-August 25, 1864. North of driveway leading from Augusta Avenue entrance of Grant Park (E-7.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-6307",
@@ -650,7 +650,7 @@ window.LOSTCAUSE = {
     "x": 60.786,
     "y": 63.561,
     "src": "both",
-    "html": "<p>(107) Site of the James E. Williams house in 1864. Gen. John B. Hood watched the battle of Atlanta from the second floor of this house, on July 22d, 1864.</p>\n\n<p>( In Oakland Cemetery – North of the cemetery office – halfway between building and north wall of the cemetery)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of James E. Williams house in 1864. Gen. John B. Hood (Confederate) watched the Battle of Atlanta from the second floor of this house. Oakland Cemetery—due north of cemetery office (E-6).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(107) Site of the James E. Williams house in 1864. Gen. John B. Hood watched the battle of Atlanta from the second floor of this house, on July 22d, 1864.</p>\n\n<p>( In Oakland Cemetery – North of the cemetery office – halfway between building and north wall of the cemetery)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of James E. Williams house in 1864. Gen. John B. Hood (Confederate) watched the Battle of Atlanta from the second floor of this house. Oakland Cemetery—due north of cemetery office (E-6).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-9375",
@@ -660,7 +660,7 @@ window.LOSTCAUSE = {
     "x": 17.348,
     "y": 63.734,
     "src": "archive",
-    "html": "<p>(108) Site of a Confederate fort in a line of works erected July 28<sup>th</sup>, 1864, to protect the two railroads entering the City from the Southwest. This line extended below East Point.</p>\n\n<p>(Elevated ground bounded by Green’s Ferry Ave., Lawton St., Sells Ave., and Abbott St.)</p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(108) Site of a Confederate fort in a line of works erected July 28<sup>th</sup>, 1864, to protect the two railroads entering the City from the Southwest. This line extended below East Point.</p>\n\n<p>(Elevated ground bounded by Green’s Ferry Ave., Lawton St., Sells Ave., and Abbott St.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-9950",
@@ -670,7 +670,7 @@ window.LOSTCAUSE = {
     "x": 43.56,
     "y": 62.03,
     "src": "both",
-    "html": "<p>(109) The Nedom L. Angier house – built during the 1850 decade, occupied as headquarters by Maj. Gen. John M. Schofield, commander of the Army of Ohio, during the occupation of Atlanta by Federal forces in Sept. 1864.</p>\n\n<p>(Old Angier house – southeast cor. Washington St., and Capitol Square – due east of City Hall)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the Nedom L. Angier house. Headquarters of Maj. General John M. Schofield during occupation of Atlanta by Federal forces. Southeast corner Capitol Square and Washington Street (E-6).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(109) The Nedom L. Angier house – built during the 1850 decade, occupied as headquarters by Maj. Gen. John M. Schofield, commander of the Army of Ohio, during the occupation of Atlanta by Federal forces in Sept. 1864.</p>\n\n<p>(Old Angier house – southeast cor. Washington St., and Capitol Square – due east of City Hall)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of the Nedom L. Angier house. Headquarters of Maj. General John M. Schofield during occupation of Atlanta by Federal forces. Southeast corner Capitol Square and Washington Street (E-6).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-3151",
@@ -680,7 +680,7 @@ window.LOSTCAUSE = {
     "x": 26.598,
     "y": 39.643,
     "src": "archive",
-    "html": "<p>(110) Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.</p>\n\n<p>(High hill bounded by Kennedy, Sunset, Jett, and Elm Sts., in Land Lot 111 of the 14<sup>th</sup> 1<sup>st</sup>., Fulton County. This is possibly the best-preserved fort in the city – even a better one than fort Walker in Grant Park. The ground has never been disturbed and is well worth a trip out there to see it)</p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(110) Confederate fort in line of City defense works during the siege of Atlanta July 22 – Aug. 25, 1864.</p>\n\n<p>(High hill bounded by Kennedy, Sunset, Jett, and Elm Sts., in Land Lot 111 of the 14<sup>th</sup> 1<sup>st</sup>., Fulton County. This is possibly the best-preserved fort in the city – even a better one than fort Walker in Grant Park. The ground has never been disturbed and is well worth a trip out there to see it)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   },
   {
     "spotId": "spot-1336",
@@ -690,7 +690,7 @@ window.LOSTCAUSE = {
     "x": 46.523,
     "y": 59.287,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(111) Site of Engine House No. 2 - Mechanic's Fire Company. Organized Dec. 10 1856. Used as a prison during the occupation of the city by Federal forces, September through November 1864. </p>\n\n<p>(Southeastern Corner Washington Street and Georgia Railroad.)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<p>(111) Site of Engine House No. 2 - Used as a prison during the occupation of the city by Federal forces, September through November 1864.</p>\n\n<p>(East side Washington Street between Railroad and Hunter Street.) (E-6)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Engine House No. 2, Mechanics' Fire Company. Used as a prison during occupation of the city by Federal forces, September-November, 1864. East side Washington Street between railroad and Hunter Streets (E-6).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(111) Site of Engine House No. 2 - Mechanic's Fire Company. Organized Dec. 10 1856. Used as a prison during the occupation of the city by Federal forces, September through November 1864. </p>\n\n<p>(Southeastern Corner Washington Street and Georgia Railroad.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Engine House No. 2, Mechanics' Fire Company. Used as a prison during occupation of the city by Federal forces, September-November, 1864. East side Washington Street between railroad and Hunter Streets (E-6).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-2472",
@@ -700,7 +700,7 @@ window.LOSTCAUSE = {
     "x": 45.027,
     "y": 60.218,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(112) Site of the Residence of James M. Calhoun, Mayor of Atlanta, 1862-1865. Used as headquarters by Maj. General John W. Geary, division commander of the Federal 20<sup>th</sup> Corps, during the occupation of the city by federal forces, September 2<sup>nd</sup> – November 15, 1864.</p>\n\n<p>(Southwest corner, Washington and Produce Row – the latter being a prolongation of Alabama Street.)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<p>(112) General John W. Geary's headquarters during occupation of City by the Federal forces. 1864. (Northwest corner Washington and Hunter Street) (E-6)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of James M. Calhoun house. Gen. John W. Geary's headquarters during occupation of city by the Federal forces. Northeast corner Washington and Hunter Streets (E-6).</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(112) Site of the Residence of James M. Calhoun, Mayor of Atlanta, 1862-1865. Used as headquarters by Maj. General John W. Geary, division commander of the Federal 20<sup>th</sup> Corps, during the occupation of the city by federal forces, September 2<sup>nd</sup> – November 15, 1864.</p>\n\n<p>(Southwest corner, Washington and Produce Row – the latter being a prolongation of Alabama Street.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of James M. Calhoun house. Gen. John W. Geary's headquarters during occupation of city by the Federal forces. Northeast corner Washington and Hunter Streets (E-6).</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-8030",
@@ -710,7 +710,7 @@ window.LOSTCAUSE = {
     "x": 95.86,
     "y": 72.448,
     "src": "both",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(114) Terry’s Mill Pond</p>\n\n<p>In the low ground south of this road the impounded water of Sugar Creek was known as Terry’s Mill Pond – 1842-1870. The mill, which stood some distance down stream, was burned by Reilly’s Brigade, Cox’s Division of the Federal 23d Corps, July 27 1864. It was rebuilt after the war.</p>\n\n<p>(On Glenwood Avenue, one mile east of East Atlanta P.O. – where Glenwood crosses Sugar Creek – near Walker Monument.)</p>\n\n<p>(My understanding is that a number of these East Atlanta markers will be setup by DeKalb County organizations --- Kurtz)</p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>\n\n<p>(114) Site of Terry's Mill Pond. Severe fighting here during battle of Atlanta (Near Walker Monument) (G-7)</p>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Terry's Millpond. Severe fighting here during Battle of Atlanta. Near Walker Monument (G-7.)</p><p class=\"journal-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(114) Terry’s Mill Pond</p>\n\n<p>In the low ground south of this road the impounded water of Sugar Creek was known as Terry’s Mill Pond – 1842-1870. The mill, which stood some distance down stream, was burned by Reilly’s Brigade, Cox’s Division of the Federal 23d Corps, July 27 1864. It was rebuilt after the war.</p>\n\n<p>(On Glenwood Avenue, one mile east of East Atlanta P.O. – where Glenwood crosses Sugar Creek – near Walker Monument.)</p>\n\n<p>(My understanding is that a number of these East Atlanta markers will be setup by DeKalb County organizations --- Kurtz)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>\n\n<div class=\"journal-extract\"><h3>The Atlanta Journal &mdash; December 12, 1939</h3><p>Site of Terry's Millpond. Severe fighting here during Battle of Atlanta. Near Walker Monument (G-7.)</p><p class=\"extract-cite\">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p></div>"
   },
   {
     "spotId": "spot-9709",
@@ -720,7 +720,7 @@ window.LOSTCAUSE = {
     "x": 42.531,
     "y": 53.036,
     "src": "archive",
-    "html": "<p><strong><span style=\"text-decoration: underline;\">Wilbur Kurtz's Archival Description</span></strong>:</p>\n\n<p>(115) This house was built by Solomon Goodwin and his Indian neighbors in 1831. It still bears marks of vandalism by Federal soldiers who occupied the house in the summer of 1864.</p>\n\n<p>(In yard of old Goodwin House – Goodwin’s Crossing – Peachtree Road – Across same from a group of stores. This house is a little south of Hospital 48 and is in land lot 239 of the 18<sup>th</sup> district, DeKalb County.)</p>\n\n<p></p>\n\n<p><strong><span style=\"text-decoration: underline;\">Newspaper Description:</span></strong></p>"
+    "html": "<div class=\"archive-extract\"><h3>Wilbur Kurtz&rsquo;s Archival Description</h3>\n<p>(115) This house was built by Solomon Goodwin and his Indian neighbors in 1831. It still bears marks of vandalism by Federal soldiers who occupied the house in the summer of 1864.</p>\n\n<p>(In yard of old Goodwin House – Goodwin’s Crossing – Peachtree Road – Across same from a group of stores. This house is a little south of Hospital 48 and is in land lot 239 of the 18<sup>th</sup> district, DeKalb County.)</p>\n<p class=\"extract-cite\">From the archival records of the 1939 Atlanta historical marker campaign.</p></div>"
   }
 ]
 };
