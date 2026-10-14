@@ -71,6 +71,17 @@
     );
   }
 
+  // Remembered overlay choices, per browser. localStorage can be unavailable
+  // (private windows, blocked site data), so every access is wrapped.
+  var PREFS_KEY = 'lostcause-overlay-prefs-v1';
+  var prefs;
+  try { prefs = JSON.parse(localStorage.getItem(PREFS_KEY)) || {}; } catch (e) { prefs = {}; }
+  if (typeof prefs !== 'object' || prefs === null) prefs = {};
+  prefs.overlays = prefs.overlays || {};
+  function savePrefs() {
+    try { localStorage.setItem(PREFS_KEY, JSON.stringify(prefs)); } catch (e) { /* not persistable */ }
+  }
+
   // Permanent festival-map backdrop: a second copy of the 1934 metro map at
   // 100% opacity UNDER the 1945 sheet (zIndex 1 vs the base's 2), built from
   // the same config rect so the two metro layers occupy identical space. The
@@ -78,15 +89,21 @@
   // the Peachtree Creek / Decatur / Fort McPherson pins their map context.
   var metroCfg = (window.LOSTCAUSE_OVERLAYS || []).find(function (o) { return o.id === 'gwtw-metro'; });
   var backdropLayer = null;
+  var backdropOn = prefs.backdrop !== false;   // default: on
   if (metroCfg) {
-    backdropLayer = L.imageOverlay(metroCfg.url, rectToBounds(metroCfg.rect), { opacity: 1, zIndex: 1 }).addTo(map);
+    backdropLayer = L.imageOverlay(metroCfg.url, rectToBounds(metroCfg.rect), { opacity: 1, zIndex: 1 });
+    if (backdropOn) backdropLayer.addTo(map);
   }
 
-  // adjustable overlays stack above the base sheet
+  // adjustable overlays stack above the base sheet; remembered state wins
+  // over the config defaults
   var overlayLayers = {};
   (window.LOSTCAUSE_OVERLAYS || []).forEach(function (o) {
-    var layer = L.imageOverlay(o.url, rectToBounds(o.rect), { opacity: o.opacity, zIndex: 3 });
-    if (o.on) layer.addTo(map);
+    var p = prefs.overlays[o.id] || {};
+    o._on = typeof p.on === 'boolean' ? p.on : !!o.on;
+    o._opacity = typeof p.opacity === 'number' && p.opacity >= 0 && p.opacity <= 1 ? p.opacity : o.opacity;
+    var layer = L.imageOverlay(o.url, rectToBounds(o.rect), { opacity: o._opacity, zIndex: 3 });
+    if (o._on) layer.addTo(map);
     overlayLayers[o.id] = layer;
   });
 
@@ -193,7 +210,7 @@
     bLabel.className = 'overlay-toggle';
     var bCb = document.createElement('input');
     bCb.type = 'checkbox';
-    bCb.checked = true;
+    bCb.checked = backdropOn;
     var bName = document.createElement('span');
     bName.textContent = '1939 Festival Map backdrop';
     bLabel.appendChild(bCb);
@@ -204,6 +221,8 @@
     bCb.addEventListener('change', function () {
       if (bCb.checked) backdropLayer.addTo(map);
       else map.removeLayer(backdropLayer);
+      prefs.backdrop = bCb.checked;
+      savePrefs();
     });
     bRow.appendChild(bLabel);
     bRow.appendChild(bSrc);
@@ -219,7 +238,7 @@
     label.className = 'overlay-toggle';
     var cb = document.createElement('input');
     cb.type = 'checkbox';
-    cb.checked = !!o.on;
+    cb.checked = !!o._on;
     var name = document.createElement('span');
     name.textContent = o.name;
     label.appendChild(cb);
@@ -229,21 +248,27 @@
     slider.type = 'range';
     slider.min = 0;
     slider.max = 100;
-    slider.value = Math.round(o.opacity * 100);
+    slider.value = Math.round(o._opacity * 100);
     slider.className = 'overlay-opacity';
     slider.setAttribute('aria-label', 'Transparency of ' + o.name);
-    slider.disabled = !o.on;
+    slider.disabled = !o._on;
 
     var src = document.createElement('p');
     src.className = 'overlay-source';
     src.textContent = o.source;
 
+    function saveOverlayPref() {
+      prefs.overlays[o.id] = { on: cb.checked, opacity: slider.value / 100 };
+      savePrefs();
+    }
     cb.addEventListener('change', function () {
       if (cb.checked) { layer.addTo(map); slider.disabled = false; }
       else { map.removeLayer(layer); slider.disabled = true; }
+      saveOverlayPref();
     });
     slider.addEventListener('input', function () {
       layer.setOpacity(slider.value / 100);
+      saveOverlayPref();
     });
 
     row.appendChild(label);
