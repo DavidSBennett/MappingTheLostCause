@@ -63,6 +63,27 @@ for (const p of posts) {
   if (n !== null && !postsByNum.has(n)) postsByNum.set(n, p);
 }
 
+// ---------- Atlanta Journal (Dec. 12, 1939) legend entries ----------
+// Parsed from the transcription; matched to markers by number and appended to
+// the marker content under a cited heading. The Journal's numbering diverges
+// from the marker series at a few points — those numbers are excluded:
+//   52  (Journal: Fort McPherson / map: Peachtree's fork at Baker St.)
+//   100 (Journal: Gen. Gresham wounded / map: Site of the Battle of Atlanta)
+const JOURNAL_MISMATCHES = new Set([52, 100]);
+
+const journalMd = readFileSync(join(root, 'data/source/atlanta-journal-1939-12-12.md'), 'utf8');
+const journalEntries = new Map();
+for (const m of journalMd.matchAll(/^\*\*(\d+)\.\*\*\s+([\s\S]*?)(?=\n\n(?:\*\*\d+\.\*\*|###|##|---)|(?![\s\S]))/gm)) {
+  const n = Number(m[1]);
+  if (JOURNAL_MISMATCHES.has(n)) continue;
+  const text = m[2]
+    .replace(/\[column continues:\]|\[continued on second page:\]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  journalEntries.set(n, text);
+}
+console.log(`Journal legend entries parsed: ${journalEntries.size}`);
+
 // ---------- Image Map Pro spots ----------
 const imp = JSON.parse(readFileSync(join(root, 'data/source/image-map-pro-export.json'), 'utf8'));
 
@@ -111,7 +132,7 @@ for (const spot of imp.spots) {
   // stray invisible characters WordPress leaves behind (object-replacement, zero-width)
   const deJunk = (s) => s.replace(/[￼​﻿]/g, '');
 
-  const html = post
+  let html = post
     ? deJunk(post.content)
         .replace(/<!--\s*\/?wp:[^>]*-->/g, '')
         .replace(/(?:(?:&nbsp;| |[ \t])*(?:&nbsp;| )(?:&nbsp;| |[ \t])*)/g, ' ')
@@ -120,6 +141,17 @@ for (const spot of imp.spots) {
         .replace(/\n{3,}/g, '\n\n')
         .trim()
     : '';
+
+  // append the Journal's legend entry for this marker, when one exists
+  const escapeHtml = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const journal = num !== null ? journalEntries.get(num) : undefined;
+  if (journal && html) {
+    html += '\n\n<div class="journal-extract">' +
+      '<h3>The Atlanta Journal &mdash; December 12, 1939</h3>' +
+      '<p>' + escapeHtml(journal) + '</p>' +
+      '<p class="journal-cite">From the marker legend published for the <em>Gone With the Wind</em> premiere festival.</p>' +
+      '</div>';
+  }
 
   markers.push({
     spotId: spot.id,

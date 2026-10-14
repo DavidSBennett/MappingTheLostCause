@@ -209,6 +209,26 @@ html, body {
   color: var(--accent);
 }
 
+/* newspaper extract inside the marker reading panel */
+.journal-extract {
+  margin-top: 18px;
+  padding: 12px 14px;
+  background: var(--parchment);
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--accent);
+}
+.journal-extract h3 {
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+}
+.journal-extract p { margin: 0 0 8px; }
+.journal-cite {
+  font-size: 0.78rem;
+  font-style: italic;
+  opacity: 0.7;
+  margin-bottom: 0 !important;
+}
+
 /* overlays panel */
 .overlay-hint {
   font-size: 0.85rem;
