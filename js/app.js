@@ -77,8 +77,9 @@
   // opaque base covers it inside the sheet; beyond the sheet's edges it gives
   // the Peachtree Creek / Decatur / Fort McPherson pins their map context.
   var metroCfg = (window.LOSTCAUSE_OVERLAYS || []).find(function (o) { return o.id === 'gwtw-metro'; });
+  var backdropLayer = null;
   if (metroCfg) {
-    L.imageOverlay(metroCfg.url, rectToBounds(metroCfg.rect), { opacity: 1, zIndex: 1 }).addTo(map);
+    backdropLayer = L.imageOverlay(metroCfg.url, rectToBounds(metroCfg.rect), { opacity: 1, zIndex: 1 }).addTo(map);
   }
 
   // adjustable overlays stack above the base sheet
@@ -183,6 +184,31 @@
 
   // ---------- overlays panel ----------
   var overlayList = el('overlay-list');
+
+  // backdrop toggle: the always-full-opacity festival map under the 1945 sheet
+  if (backdropLayer) {
+    var bRow = document.createElement('div');
+    bRow.className = 'overlay-row';
+    var bLabel = document.createElement('label');
+    bLabel.className = 'overlay-toggle';
+    var bCb = document.createElement('input');
+    bCb.type = 'checkbox';
+    bCb.checked = true;
+    var bName = document.createElement('span');
+    bName.textContent = '1939 Festival Map backdrop';
+    bLabel.appendChild(bCb);
+    bLabel.appendChild(bName);
+    var bSrc = document.createElement('p');
+    bSrc.className = 'overlay-source';
+    bSrc.textContent = 'Sits under the 1945 sheet at full opacity, giving the pins beyond its edges their map context.';
+    bCb.addEventListener('change', function () {
+      if (bCb.checked) backdropLayer.addTo(map);
+      else map.removeLayer(backdropLayer);
+    });
+    bRow.appendChild(bLabel);
+    bRow.appendChild(bSrc);
+    overlayList.appendChild(bRow);
+  }
   (window.LOSTCAUSE_OVERLAYS || []).forEach(function (o) {
     var layer = overlayLayers[o.id];
 
