@@ -16,6 +16,13 @@ JavaScript rebuild of the WordPress Image Map Pro system previously at
   hover tooltip and a click-to-open reading panel containing the full archival text.
 - [data/markers.js](data/markers.js) — **generated file**: one record per marker with
   its position (the original Image Map Pro percent coordinates) and the post HTML.
+- **Pin colors** encode the text source: red = archival record (Kurtz/WordPress),
+  blue = the 1939 Atlanta Journal legend, split red/blue = both. Where the Journal's
+  festival-list numbering names a different place than the archival series (10, 52,
+  54, 56, 58, 68, 100), the Journal entry gets its own blue pin at its own location —
+  marked `"source":"journal"` in the export so the build never attaches the
+  same-numbered archival post. Pins may sit beyond the 1945 sheet's edges (Peachtree
+  Creek, Decatur, Fort McPherson), placed to line up with the festival-map overlay.
 - [data/overlays.js](data/overlays.js) — historical map overlays, each a toggleable
   Leaflet layer with its own transparency slider (the Overlays panel). An overlay's
   `rect` positions it in base-image pixels; tune alignment live in the browser console

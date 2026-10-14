@@ -72,19 +72,22 @@ for (const p of posts) {
 //   54  (Journal: Dexter Niles home     / archive: Angier's Academy)
 //   56  (Journal: McPherson Monument    / archive: Battlefield of Ezra Church)
 //   58  (Journal: Whitehall Tavern      / archive: Walton Springs)
+//   68  (Journal: Gen. Stewart's HQ     / archive: Gen. Ira R. Foster's house)
 //   100 (Journal: Gen. Gresham wounded  / archive: Site of the Battle of Atlanta)
-const JOURNAL_MISMATCHES = new Set([10, 52, 54, 56, 58, 100]);
+// Each of these Journal entries has its own journal-source pin instead.
+const JOURNAL_MISMATCHES = new Set([10, 52, 54, 56, 58, 68, 100]);
 
+// A spot with "source":"journal" in the export is pinned under the JOURNAL's
+// numbering: it never takes archival post content, and the mismatch exclusion
+// does not apply (that is the entry it exists to show).
 const journalMd = readFileSync(join(root, 'data/source/atlanta-journal-1939-12-12.md'), 'utf8');
 const journalEntries = new Map();
 for (const m of journalMd.matchAll(/^\*\*(\d+)\.\*\*\s+([\s\S]*?)(?=\n\n(?:\*\*\d+\.\*\*|###|##|---)|(?![\s\S]))/gm)) {
-  const n = Number(m[1]);
-  if (JOURNAL_MISMATCHES.has(n)) continue;
   const text = m[2]
     .replace(/\[column continues:\]|\[continued on second page:\]/g, '')
     .replace(/\s+/g, ' ')
     .trim();
-  journalEntries.set(n, text);
+  journalEntries.set(Number(m[1]), text);
 }
 console.log(`Journal legend entries parsed: ${journalEntries.size}`);
 
@@ -113,10 +116,13 @@ for (const spot of imp.spots) {
   const pidMatch = link.match(/(?:\?p=|post=)(\d+)/);
   const pid = pidMatch ? Number(pidMatch[1]) : null;
 
-  let post = (num !== null && postsByNum.get(num)) || (pid !== null && postsById.get(pid)) || null;
+  const journalSource = spot.source === 'journal';
+
+  let post = journalSource ? null
+    : (num !== null && postsByNum.get(num)) || (pid !== null && postsById.get(pid)) || null;
 
   // last resort: slug words against post titles
-  if (!post && /marker-campaign\//.test(link)) {
+  if (!post && !journalSource && /marker-campaign\//.test(link)) {
     const slug = link.replace(/\(opens in a new tab\)$/, '').replace(/^#/, '')
       .split('marker-campaign/')[1]?.replace(/\/$/, '') || '';
     const slugWords = slug.replace(/%[0-9a-f]{2}/gi, '').split('-').filter((w) => w.length > 3);
@@ -147,9 +153,12 @@ for (const spot of imp.spots) {
     : '';
 
   // append the Journal's legend entry for this marker, when one exists;
-  // a marker with no archival post gets the Journal text as its content
+  // a marker with no archival post gets the Journal text as its content.
+  // On an archive-numbered marker, skip Journal numbers known to describe a
+  // different place; a journal-source spot shows its entry unconditionally.
   const escapeHtml = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  const journal = num !== null ? journalEntries.get(num) : undefined;
+  const journal = num !== null && (journalSource || !JOURNAL_MISMATCHES.has(num))
+    ? journalEntries.get(num) : undefined;
   if (journal) {
     html += (html ? '\n\n' : '') + '<div class="journal-extract">' +
       '<h3>The Atlanta Journal &mdash; December 12, 1939</h3>' +
@@ -165,6 +174,7 @@ for (const spot of imp.spots) {
     title: deJunk(post ? post.title : heading).replace(/\s+/g, ' ').replace(/\(\s+/g, '(').replace(/\s+\)/g, ')').trim(),
     x: spot.x,
     y: spot.y,
+    src: post && journal ? 'both' : post ? 'archive' : journal ? 'journal' : 'none',
     html,
   });
 }

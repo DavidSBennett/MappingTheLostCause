@@ -39,10 +39,19 @@
   var activePin = null;
   var leafletMarkers = {};
 
+  // pin color encodes the source of the marker text:
+  // archive = red, journal (1939 Atlanta Journal) = blue, both = split
+  function srcClass(m) {
+    if (m.src === 'journal') return ' lc-pin-journal';
+    if (m.src === 'both') return ' lc-pin-both';
+    if (m.src === 'none' || !m.html) return ' lc-pin-nocontent';
+    return '';
+  }
+
   MARKERS.forEach(function (m) {
     var icon = L.divIcon({
       className: '',
-      html: '<div class="lc-pin' + (m.html ? '' : ' lc-pin-nocontent') + '">' + m.label + '</div>',
+      html: '<div class="lc-pin' + srcClass(m) + '">' + m.label + '</div>',
       iconSize: [26, 26],
       iconAnchor: [13, 13],
     });
@@ -68,6 +77,18 @@
     if (o.on) layer.addTo(map);
     overlayLayers[o.id] = layer;
   });
+
+  // always-visible legend for the pin colors
+  var legend = L.control({ position: 'bottomleft' });
+  legend.onAdd = function () {
+    var div = L.DomUtil.create('div', 'lc-legend');
+    div.innerHTML =
+      '<span class="lc-swatch"></span> Archival record' +
+      '<span class="lc-swatch lc-pin-journal"></span> Atlanta Journal, 1939' +
+      '<span class="lc-swatch lc-pin-both"></span> Both';
+    return div;
+  };
+  legend.addTo(map);
 
   // dev handle for tuning overlay alignment from the browser console:
   //   LC_DEV.setRect('gwtw-metro', {x:..., y:..., width:..., height:...})
@@ -120,12 +141,15 @@
     var li = document.createElement('li');
     var btn = document.createElement('button');
     btn.type = 'button';
+    var dot = document.createElement('span');
+    dot.className = 'lc-swatch' + srcClass(m);
     var num = document.createElement('span');
     num.className = 'idx-num';
     num.textContent = m.label;
     var txt = document.createElement('span');
     // strip the leading "(NN)" from the title for the list — the number column has it
     txt.textContent = m.title.replace(/^\s*\(?\s*\d+\s*\)?[\s.]*/, '') || m.title;
+    btn.appendChild(dot);
     btn.appendChild(num);
     btn.appendChild(txt);
     btn.addEventListener('click', function () {

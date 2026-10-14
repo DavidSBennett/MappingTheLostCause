@@ -98,6 +98,35 @@ html, body {
   transform: scale(1.25);
 }
 .lc-pin.lc-pin-nocontent { background: #6b6154; }
+.lc-pin-journal { background: #30587c; }  /* 1939 Atlanta Journal source */
+.lc-pin-both { background: linear-gradient(90deg, var(--accent) 0 50%, #30587c 50% 100%); }
+
+/* color swatches: map legend and index rows */
+.lc-swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 1px solid var(--accent-ink);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+  margin: 0 6px 0 14px;
+  vertical-align: -1px;
+}
+.lc-swatch.lc-pin-journal { background: #30587c; }
+.lc-swatch.lc-pin-both { background: linear-gradient(90deg, var(--accent) 0 50%, #30587c 50% 100%); }
+.lc-legend .lc-swatch:first-child { margin-left: 0; }
+.lc-legend {
+  background: var(--panel-bg);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 6px 10px;
+  font-family: Georgia, serif;
+  font-size: 0.78rem;
+  color: var(--ink);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
+}
+#index-list .lc-swatch { margin: 0; flex: 0 0 12px; align-self: center; }
 
 .leaflet-tooltip.lc-tooltip {
   background: var(--panel-bg);
