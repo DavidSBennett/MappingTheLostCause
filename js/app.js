@@ -14,8 +14,10 @@
     crs: L.CRS.Simple,
     minZoom: -3,
     maxZoom: 2,
-    zoomSnap: 0.25,
-    zoomDelta: 0.5,
+    zoomSnap: 0,              // fractional zoom levels — no snapping between steps
+    zoomDelta: 0.25,          // finer steps for the +/- buttons and keyboard
+    wheelPxPerZoomLevel: 150, // more scroll per level = slower, smoother wheel zoom
+    wheelDebounceTime: 20,
     attributionControl: false,
   });
 
