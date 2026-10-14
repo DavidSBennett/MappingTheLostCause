@@ -69,6 +69,11 @@
   });
   document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape') ['index-panel', 'detail-panel', 'about-panel'].forEach(closePanel);
+
+    // global zoom keys — work anywhere on the page, not just with the map focused
+    if (e.target.matches('input, textarea')) return;
+    if (e.key === '+' || e.key === '=') map.zoomIn(0.5);
+    else if (e.key === '-' || e.key === '_') map.zoomOut(0.5);
   });
 
   function openDetail(m, mk) {
